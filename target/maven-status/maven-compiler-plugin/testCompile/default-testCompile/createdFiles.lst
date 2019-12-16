@@ -1,0 +1,12 @@
+com\next\utils\GoTo.class
+com\next\dbsteps\DBCountriesSteps.class
+com\next\BaseConfig\Hooks.class
+com\next\steps\ShouldBeAbleToSearchProductSteps.class
+com\next\utils\NamePattern.class
+com\next\utils\Logs.class
+com\next\steps\ShouldBeAbleToSortProductSteps.class
+com\next\TestRunner.class
+com\next\BaseConfig\BaseUIPageObjects.class
+com\next\pagaobjects\HomePage.class
+com\next\utils\ScreenShot.class
+com\next\utils\WaitFor.class

@@ -1,0 +1,515 @@
+2019-12-15 15:37:48,183 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 15:38:22,930 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 15:38:23,652 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 15:38:52,320 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 15:38:53,083 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 15:39:13,829 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 15:39:45,111 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 15:40:46,804 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 15:41:18,945 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 15:48:43,462 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 15:49:11,085 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 16:25:24,064 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 16:25:51,950 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 16:31:36,383 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 16:32:03,626 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 16:32:33,366 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 16:32:57,331 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 16:34:42,856 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 16:35:11,717 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 16:38:26,135 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 16:38:53,712 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 16:40:37,207 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 16:41:03,235 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 16:42:13,548 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 16:42:43,131 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 16:51:37,431 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 16:52:04,244 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 16:52:55,563 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 16:53:24,305 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 16:53:45,880 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 16:54:16,072 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 16:56:29,073 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 16:56:59,437 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:03:30,925 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:03:58,774 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:14:46,758 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:15:15,102 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:17:11,396 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:17:40,642 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:19:56,080 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:20:22,398 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:21:24,182 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:21:50,754 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:27:03,120 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:27:30,422 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:29:13,545 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:29:31,167 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:29:59,733 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:30:29,323 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:30:58,998 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:32:46,276 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:33:12,389 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:33:56,767 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:34:26,628 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:35:38,417 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:36:04,385 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:37:11,520 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:37:38,445 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:39:10,779 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:39:37,169 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:40:04,902 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:40:34,049 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:41:49,240 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:42:15,770 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:42:32,144 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:42:59,563 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:50:13,054 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:50:40,555 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:56:01,838 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:56:31,778 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 17:58:58,406 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 17:59:26,558 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 18:01:08,354 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 18:01:37,081 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 18:03:30,602 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 18:03:59,526 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-15 18:04:26,004 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-15 18:04:52,758 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 06:03:29,562 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 06:04:14,456 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 06:04:49,613 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 06:05:19,729 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 06:06:57,333 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 06:07:38,690 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 06:10:00,390 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 06:10:29,072 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 06:28:53,816 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 06:29:24,934 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 06:31:16,114 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 06:31:43,833 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 06:32:34,111 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 06:33:02,703 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 06:34:45,732 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 06:35:13,962 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 06:37:07,795 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 06:37:50,542 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 06:38:29,953 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 06:39:03,484 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 07:19:17,199 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 07:19:44,777 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 07:21:02,171 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 07:21:32,917 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 07:25:37,784 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 07:26:09,807 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 07:26:44,277 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 07:30:36,887 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 07:31:05,068 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 07:32:50,181 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 07:34:42,835 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 07:36:29,094 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 07:37:09,001 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 07:39:55,698 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 07:42:13,770 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 07:55:12,746 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 07:56:43,483 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 08:00:48,836 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 08:03:12,330 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 08:04:31,945 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 08:05:58,220 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 09:17:23,017 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 09:17:52,891 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 09:18:58,104 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 09:19:37,860 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 09:20:41,153 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 09:21:19,007 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 09:26:45,590 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 09:27:19,762 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 09:28:52,117 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 09:29:27,590 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 09:30:46,700 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 09:31:17,853 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 09:32:19,991 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 09:33:37,269 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 09:35:04,377 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 09:35:41,134 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 09:36:12,689 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 09:36:27,111 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 09:36:27,118 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 09:36:27,121 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 09:36:27,121 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 09:36:40,153 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 09:37:12,811 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 09:38:07,303 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 09:38:07,308 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 11:17:59,998 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 11:21:51,901 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 11:27:10,730 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 11:29:57,972 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 11:33:07,657 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 11:33:50,971 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 11:34:20,839 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 11:34:52,650 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 11:35:23,766 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 11:35:23,771 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 11:35:23,772 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 11:35:23,773 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 11:35:23,777 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 11:35:23,777 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 11:35:24,271 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 12:57:03,418 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 12:57:44,560 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 12:58:15,780 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 12:58:45,388 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 12:59:17,893 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 12:59:17,896 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 12:59:17,897 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 12:59:17,898 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 12:59:17,898 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 12:59:17,898 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 12:59:18,498 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:02:54,184 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:03:26,887 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:03:27,831 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:03:52,276 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:03:52,998 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:04:19,138 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:04:20,247 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:04:50,767 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 13:04:50,767 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 13:04:50,767 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 13:04:50,767 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 13:04:50,767 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 13:04:50,767 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 13:04:51,529 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:04:52,248 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:05:17,643 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:05:26,653 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:05:52,660 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:05:53,416 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:07:15,732 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:07:17,154 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:08:42,088 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:08:43,606 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:09:49,118 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 13:09:49,118 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 13:09:49,118 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 13:09:49,118 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 13:09:49,118 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 13:09:49,118 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 13:09:49,670 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:09:50,543 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:09:51,840 [main] DEBUG org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: standard
+2019-12-16 13:09:51,855 [main] DEBUG org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+2019-12-16 13:09:51,855 [main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection request: [route: {s}->https://raw.githubusercontent.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-12-16 13:09:51,871 [main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection leased: [id: 0][route: {s}->https://raw.githubusercontent.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-12-16 13:09:51,886 [main] DEBUG org.apache.http.impl.execchain.MainClientExec - Opening connection {s}->https://raw.githubusercontent.com:443
+2019-12-16 13:09:51,886 [main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator - Connecting to raw.githubusercontent.com/151.101.60.133:443
+2019-12-16 13:09:51,886 [main] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory - Connecting socket to raw.githubusercontent.com/151.101.60.133:443 with timeout 0
+2019-12-16 13:09:52,003 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 13:09:52,003 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 13:09:52,050 [main] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2019-12-16 13:09:52,050 [main] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2019-12-16 13:09:52,050 [main] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory - Starting handshake
+2019-12-16 13:09:52,253 [main] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory - Secure session established
+2019-12-16 13:09:52,253 [main] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory -  negotiated protocol: TLSv1.2
+2019-12-16 13:09:52,253 [main] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory -  negotiated cipher suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+2019-12-16 13:09:52,253 [main] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory -  peer principal: CN=www.github.com, O="GitHub, Inc.", L=San Francisco, ST=California, C=US
+2019-12-16 13:09:52,253 [main] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory -  peer alternative names: [www.github.com, *.github.com, github.com, *.github.io, github.io, *.githubusercontent.com, githubusercontent.com]
+2019-12-16 13:09:52,253 [main] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory -  issuer principal: CN=DigiCert SHA2 High Assurance Server CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+2019-12-16 13:09:52,300 [main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator - Connection established 192.168.0.2:58549<->151.101.60.133:443
+2019-12-16 13:09:52,300 [main] DEBUG org.apache.http.impl.conn.DefaultManagedHttpClientConnection - http-outgoing-0: set socket timeout to 30000
+2019-12-16 13:09:52,300 [main] DEBUG org.apache.http.impl.execchain.MainClientExec - Executing request GET /bonigarcia/webdrivermanager/master/src/main/resources/versions.properties HTTP/1.1
+2019-12-16 13:09:52,300 [main] DEBUG org.apache.http.impl.execchain.MainClientExec - Target auth state: UNCHALLENGED
+2019-12-16 13:09:52,300 [main] DEBUG org.apache.http.impl.execchain.MainClientExec - Proxy auth state: UNCHALLENGED
+2019-12-16 13:09:52,300 [main] DEBUG org.apache.http.headers - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/src/main/resources/versions.properties HTTP/1.1
+2019-12-16 13:09:52,300 [main] DEBUG org.apache.http.headers - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6
+2019-12-16 13:09:52,300 [main] DEBUG org.apache.http.headers - http-outgoing-0 >> Connection: keep-alive
+2019-12-16 13:09:52,300 [main] DEBUG org.apache.http.headers - http-outgoing-0 >> Host: raw.githubusercontent.com
+2019-12-16 13:09:52,316 [main] DEBUG org.apache.http.headers - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2019-12-16 13:09:52,316 [main] DEBUG org.apache.http.wire - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/src/main/resources/versions.properties HTTP/1.1[\r][\n]"
+2019-12-16 13:09:52,316 [main] DEBUG org.apache.http.wire - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6[\r][\n]"
+2019-12-16 13:09:52,316 [main] DEBUG org.apache.http.wire - http-outgoing-0 >> "Connection: keep-alive[\r][\n]"
+2019-12-16 13:09:52,316 [main] DEBUG org.apache.http.wire - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+2019-12-16 13:09:52,316 [main] DEBUG org.apache.http.wire - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-12-16 13:09:52,316 [main] DEBUG org.apache.http.wire - http-outgoing-0 >> "[\r][\n]"
+2019-12-16 13:09:52,332 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2019-12-16 13:09:52,332 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+2019-12-16 13:09:52,332 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+2019-12-16 13:09:52,332 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-12-16 13:09:52,332 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+2019-12-16 13:09:52,332 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "ETag: W/"cdd3df46211b892f9918c648ec112f22a028f8a17172668131270d067347c968"[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Geo-Block-List:[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "X-GitHub-Request-Id: A07E:164B:0A13:0DA3:5DF7820E[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Content-Length: 687[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Date: Mon, 16 Dec 2019 13:09:52 GMT[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Served-By: cache-lhr7368-LHR[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Cache: HIT[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Cache-Hits: 1[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Timer: S1576501793.552096,VS0,VE0[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Vary: Authorization,Accept-Encoding[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Fastly-Request-ID: 6e6d4a63d0fa4942fdab9f2d64d80606bd0f43cf[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Expires: Mon, 16 Dec 2019 13:14:52 GMT[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Source-Age: 5[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "[\r][\n]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0x8d][0x95]K[0x8f][0xdb] [0x10][0x80][0xef][0xf9][0x15]H{i[0xf][0xc1][0xbc][0xc]v$_[0xfa]<U=[0xb4][0xf7][0xca][0x89]I[0x82][0xd6]1[0x11][0xf6]n[0xda][0xfe][0xfa]2<[0xbc]l[0xd4]J=~[0x9f]a[0x98]0[0xc3][0xe4][0x1]}?[0x9b][0x19][0x1d][0xcd][0xa8][0xd1][0xc1]NKo[0xa6][0x19]-g[0x8d][0x1e]'{[0x9b][0xd0][0xb3]v[0xb3][0xb1]^[0x1d][0xad]C[0x83]3[0xc0][0xe8][0xcd][0xde]L[0xbd][0xfb][0xf5][0xd6]o[0xb8]\[0xfb][0xc5][0xec][0xfd][0xde][0x9b]Y[0xce]a[0xdf][0xc1]:[0xa7][0xe7][0xab][0x9d][0x6]3[0x9d][0xd0][0xde][0xd9][0xdb][0xac]][0x8e][0xb3][0xd9]<[0xa0]wQ[0xed][0xd0]gkO~[0xe7][0xfb][0xb3][0xb3][0x17][0x8d][0xb6][0xe8]C[0x8][0xbf]C[0x87] [0xe2]a~[0xfd]7[0xfb][0xe4][0xe]z[0x87][0xce][0xcb]r[0xdd]UU[0xf9][0x15][0x7]0O[0x17]l[0xdd][0xa9][0x1a]|[0xc2][0xa3][0xed][0x87]y[0x13][0xd7][0xa8][0xb6]S-&[0x98][0xb7][0xa2][0xc6]\f[0xdb]t[0xaa][0x9][0x96][0x8]LI[0x9d][0xb5][0xea][0x94][0x2][0xdd][0xc8][0x1a][0xb][0x92][0xad][0xec][0x94][0xc][0x96][0xb4][0x98][0xb2]5F[0xdd][0xa9][0x1a][0xb4]R[0x4][0xd3][0x97][0xd5][0xa2]S"h[0xd6][0xe2]u-[0xef][0x14][0x7])[0x1b][0x8e]e[0x93]-[0xeb][0x18][0x16][0xeb][0x1a][0xfa][0x8a][0x8]PNL[0xb6]@"S[0x3][0xc4]2) [0x9a]I[0x2][0xe5]dd[0xed][0x89][0xe7][0xf3][0xa4][0x0]R[0x99]8P>OB.|=[0xf]r[0xe1][0xeb]y[0x90][0xb][0xe7][0xaf][0xea][0xf6][0xc5][0xfe]6[0xe3][0xd8][0xa3]O[0xc6][0xe9][0xa3][0xfd]YT[0xee][0xa4][0xf][0x8f][0xf6][0xaf][0x85][0x9b]}[0xe5]N[0xbe]E[0x9e][0xf6][0xd8]7Mu[0x89]![0xaa]bC[0xe5][0xf4][0xa8][0xfb]Y[0xcf][0x9b]c[0x8c][0xeb]8[0xc1][0xcc][0xdf][0xfe]*[0x1a][0x10]u![0x14][0x8]Q[0x8]y/[0xea]{!@[0xf0]B[0xf0]{[0xc1]@[0xb0]BP[0x10][0xb4][0x10][0xe4]N[0xd4][0xed][0xbd]h[0xee][0x85][0xba][0x17]!SR[0x88]:[0x8b][0xf2][0xaa][0xbf]^[0xb5][0xeb][0x8b][0xb][0xb6][0xc0][0xff]s[0xc1]a[0xe1]l[0x8f][0xcb][0xad]w:R~+[0xf7][0xd7][0x1d]>[0xfa][0x8b]zy[0x15][0x8d]JR[0x14]o[0x82]2[0x92],/[0xdf][0x4]g[0xc9][0xb2][0xf2]I[0x90][0xbc]6[0xb5]r[0x80][0xba]-!5r[0x84][0xd4][0xc7][0x11]R[0x1b]GH][0x1c]!5q[0x84][0xd4][0xc3][0x11]R[0xb]G[0xa0][0xb1]g#[0x90][0x2][0x4]d[0x90]3[0x16][0x90][0x1]O[0xe7][0x8][0xc8][0x80][0xb5][0x9]d[0x84]WMo[0xe][0xce][0xc2][0x85][0xa2][0x8f][0xc3][0xa9][0x9c]V[0x97]Y{[0xf1][0xcf][0x9a][0xc][0xfa]Y[0x8f][0x10][0x15]_r[0x84]P =m[0x9f][0xe6]ju[[0x8]R-[0xd6][0x8e]su[0xd3][0xfb]T#[0xb4][0xdd][0xae][0x81][0xf4][0x84]o[0xe6][0xd1]\[0xf5]`[0xfa]0[0xee][0x80][0xaa]5[0xad][0x1f][0x90][0xd6][0x6][0xa2]4[0xa4]kH[0x18]8[0xd0]o`[0xd6]AHy6i[0x8]2[0xa8]o4i[0xfe]1[0xbe][0x9a]4[0xfb]h[0xb3][0xee]Jc[0x8f][0xf2][0xd6][0xb7]jPBtW[0xa7][0xb7][0xfe]Oc[0xe9][0xc7]Q[0xf]Q[0xb2]Nb[0xaa][0xa8][0x9f]"[0x1]i[0xe7][0xdb]G[0xb2][0xb6][0x8d]H:?xk"y@[0xde]t[0xdc][0xcf]P[0xde]FdPp?[0x96][0x1b][0x19][0x91]t[0xd4]#[0xf3][0xfd][0xf0][0x7][0x6]+Bf[0xaa][0x6][0x0][0x0]"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.headers - http-outgoing-0 << HTTP/1.1 200 OK
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.headers - http-outgoing-0 << X-Content-Type-Options: nosniff
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.headers - http-outgoing-0 << X-Frame-Options: deny
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.headers - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.headers - http-outgoing-0 << ETag: W/"cdd3df46211b892f9918c648ec112f22a028f8a17172668131270d067347c968"
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+2019-12-16 13:09:52,363 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Cache-Control: max-age=300
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << X-Geo-Block-List:
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << X-GitHub-Request-Id: A07E:164B:0A13:0DA3:5DF7820E
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Content-Encoding: gzip
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Content-Length: 687
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Accept-Ranges: bytes
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Date: Mon, 16 Dec 2019 13:09:52 GMT
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Via: 1.1 varnish
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Connection: keep-alive
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << X-Served-By: cache-lhr7368-LHR
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << X-Cache: HIT
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << X-Cache-Hits: 1
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << X-Timer: S1576501793.552096,VS0,VE0
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Vary: Authorization,Accept-Encoding
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Access-Control-Allow-Origin: *
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << X-Fastly-Request-ID: 6e6d4a63d0fa4942fdab9f2d64d80606bd0f43cf
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Expires: Mon, 16 Dec 2019 13:14:52 GMT
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Source-Age: 5
+2019-12-16 13:09:52,378 [main] DEBUG org.apache.http.impl.execchain.MainClientExec - Connection can be kept alive indefinitely
+2019-12-16 13:09:52,410 [main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection [id: 0][route: {s}->https://raw.githubusercontent.com:443] can be kept alive indefinitely
+2019-12-16 13:09:52,410 [main] DEBUG org.apache.http.impl.conn.DefaultManagedHttpClientConnection - http-outgoing-0: set socket timeout to 0
+2019-12-16 13:09:52,410 [main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection released: [id: 0][route: {s}->https://raw.githubusercontent.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-12-16 13:10:16,963 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:40:54,742 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:41:23,154 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:43:13,679 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:44:14,876 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:47:38,954 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:50:39,888 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:52:54,717 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:53:17,407 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:53:18,184 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:53:38,950 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 13:53:38,953 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 13:53:39,023 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:53:39,783 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:53:59,482 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:54:00,262 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:54:31,374 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:54:32,153 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:55:04,280 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:55:05,059 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:55:19,045 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 13:55:19,047 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 13:55:19,049 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 13:55:19,051 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 13:55:19,052 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 13:55:19,052 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 13:55:36,658 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:55:37,428 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:56:10,328 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:56:11,106 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:56:43,602 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:56:44,688 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 13:56:44,688 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 13:56:44,688 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 13:56:44,688 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 13:56:44,688 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 13:56:44,688 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 13:58:02,434 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:58:24,047 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:58:24,891 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:58:43,820 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:58:44,582 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:59:02,605 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:59:03,326 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:59:29,238 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:59:30,084 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 13:59:55,626 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 13:59:56,468 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:00:22,321 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:00:23,212 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:00:56,867 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:00:56,871 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:00:56,874 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:00:56,876 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:00:56,876 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:00:56,876 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:00:56,880 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:00:56,880 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:00:56,880 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:00:56,880 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:00:56,883 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:00:56,883 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:00:57,904 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:00:58,871 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:01:26,046 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:06:14,172 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:06:35,199 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:06:35,937 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:06:57,141 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:06:59,397 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:07:21,868 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:07:21,872 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:07:21,881 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:07:21,882 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:07:24,442 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:07:25,378 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:07:56,526 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:07:57,355 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:08:28,659 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:08:29,559 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:08:56,971 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:08:57,857 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:09:28,376 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:09:29,496 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:10:01,280 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:10:01,282 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:10:01,288 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:10:01,290 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:10:01,294 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:10:01,295 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:10:01,299 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:10:01,299 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:10:01,394 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:10:01,394 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:10:03,177 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:14:07,492 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:14:30,658 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:14:31,635 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:14:53,207 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:14:54,295 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:15:19,107 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:15:20,410 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:15:20,431 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:15:20,435 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:15:53,744 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:15:54,941 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:16:24,682 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:16:25,796 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:16:41,773 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:17:23,107 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:17:24,809 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:17:25,166 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:17:26,255 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:17:59,656 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:18:01,057 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:18:21,494 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:18:22,267 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:18:32,623 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:18:33,452 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:18:47,629 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:18:47,634 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:18:47,634 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:18:47,636 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:18:47,636 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:18:47,636 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:18:47,638 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:18:47,641 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:18:47,651 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:18:47,652 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:19:05,712 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:19:05,714 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:19:09,723 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:19:20,048 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:19:20,897 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:19:52,595 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:19:53,547 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:20:29,522 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:20:30,392 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:21:01,616 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:21:01,618 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:21:01,619 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:21:01,620 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:21:01,622 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:21:01,623 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:21:01,623 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:21:01,624 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:21:01,624 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:21:01,624 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:21:01,625 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 14:21:01,626 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 14:21:03,155 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 14:21:04,038 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 14:21:32,219 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:01:46,525 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:02:04,359 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:02:05,170 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:02:29,621 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:02:30,414 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:02:50,524 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:02:51,462 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:03:13,530 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:03:15,175 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:03:44,553 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:03:45,315 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:03:57,762 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:04:18,697 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:04:20,267 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:05:38,856 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:05:41,009 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:06:38,495 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:06:39,568 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:06:59,938 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:07:00,852 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:07:36,426 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:07:37,230 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:07:37,352 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 16:07:37,352 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 16:07:37,369 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 16:07:37,370 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 16:07:37,410 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 16:07:37,411 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 16:07:37,420 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 16:07:37,420 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 16:08:07,692 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:08:08,530 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:08:32,601 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:08:33,462 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:08:57,498 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:08:58,264 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:09:22,876 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:10:10,285 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:10:26,184 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:10:28,102 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:10:47,696 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:10:48,790 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:11:08,187 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:11:09,286 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:11:27,974 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:11:29,083 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:12:06,870 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 16:12:06,875 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 16:12:06,886 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 16:12:06,886 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 16:12:06,903 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 16:12:06,905 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 16:12:12,857 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:12:13,623 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:12:42,873 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:12:43,731 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:13:10,825 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:13:11,604 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:13:39,161 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:13:39,936 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Started Test..................#############################################################################........!
+2019-12-16 16:14:07,559 [main] INFO com.next.utils.Logs - com.next.BaseConfig.Hooks :Ended Test..................#############################################################################........!
+2019-12-16 16:14:08,679 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 16:14:08,696 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 16:14:08,696 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 16:14:08,696 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 16:14:08,718 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 16:14:08,719 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-16 16:14:08,733 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-16 16:14:08,733 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
