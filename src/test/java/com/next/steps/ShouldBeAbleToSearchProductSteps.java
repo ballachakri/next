@@ -19,7 +19,7 @@ public class ShouldBeAbleToSearchProductSteps {
 
     @Given("As a user i am on the home page")
     public void as_a_user_i_am_on_the_home_page() {
-        Logs.info("Steps of  " +this.getClass().getName() +" of a Test Case are executing.........................!");
+        Logs.info(">>> " +this.getClass().getName() +" STEPS ARE EXECUTING.........................!");
         homePage = new HomePage();
    }
 
