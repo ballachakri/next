@@ -1,6 +1,3 @@
 # Default ignored files
 /workspace.xml
-*.json
-*.html
-*.log
 /target

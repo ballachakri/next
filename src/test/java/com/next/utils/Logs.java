@@ -9,11 +9,11 @@ public class Logs {
 
     public static void startTestLog(String testCaseName) {
         PropertyConfigurator.configure("log4j.properties");
-        logger.info(".......................................................Test Started..................................................................................................!");
+        logger.info(".......................Test Started..........................................................!");
     }
 
     public static void endTestLog(String testCaseName) {
-        logger.info(".......................................................Test Ended....................................................................................................!");
+        logger.info(".......................Test Ended............................................................!");
     }
 
     public static void info(String msg) {
