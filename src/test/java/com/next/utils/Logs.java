@@ -8,15 +8,12 @@ public class Logs {
     private static Logger logger = Logger.getLogger(Logs.class.getName());
 
     public static void startTestLog(String testCaseName) {
-
         PropertyConfigurator.configure("log4j.properties");
-
-        logger.info(testCaseName + " :Started Test..................#############################################################################........!");
+        logger.info(".......................................................Test Started..................................................................................................!");
     }
 
     public static void endTestLog(String testCaseName) {
-
-        logger.info( testCaseName + " :Ended Test..................#############################################################################........!");
+        logger.info(".......................................................Test Ended....................................................................................................!");
     }
 
     public static void info(String msg) {
@@ -26,7 +23,6 @@ public class Logs {
     public static void warn(String msg) {
         logger.warn(msg);
     }
-
 
     public static void error(String msg) {
         logger.error(msg);

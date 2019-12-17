@@ -6,92 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 15152318600,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.setupBrowser()"
-            }
-          }
-        ],
-        "line": 3,
-        "name": "database test",
-        "description": "",
-        "id": "sample-database-test;database-test",
-        "after": [
-          {
-            "result": {
-              "duration": 1911952300,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.closeBrowser(Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 768042900,
-              "status": "passed"
-            },
-            "line": 4,
-            "name": "I am connected to database",
-            "match": {
-              "location": "DBCountriesSteps.i_am_connected_to_database()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 45606500,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "I search for countries in a continent as \"Asia\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Asia\"",
-                  "offset": 41
-                }
-              ],
-              "location": "DBCountriesSteps.i_search_for_countries_in_a_continent_as(String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 2718800,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "I should view all the countries in the continent",
-            "match": {
-              "location": "DBCountriesSteps.i_should_view_all_the_countries_in_the_continent()"
-            },
-            "keyword": "Then "
-          }
-        ]
-      }
-    ],
-    "name": "SAMPLE DATABASE TEST",
-    "description": "",
-    "id": "sample-database-test",
-    "keyword": "Feature",
-    "uri": "src/test/java/com/next/dbfeatures/TestDb.feature",
-    "tags": []
-  },
-  {
-    "line": 1,
-    "elements": [
-      {
-        "before": [
-          {
-            "result": {
-              "duration": 13338438900,
+              "duration": 15492477700,
               "status": "passed"
             },
             "match": {
@@ -106,7 +21,7 @@
         "after": [
           {
             "result": {
-              "duration": 1078106600,
+              "duration": 882825600,
               "status": "passed"
             },
             "match": {
@@ -119,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 63127900,
+              "duration": 84703500,
               "status": "passed"
             },
             "line": 8,
@@ -131,7 +46,7 @@
           },
           {
             "result": {
-              "duration": 169737600,
+              "duration": 192356200,
               "status": "passed"
             },
             "line": 9,
@@ -149,7 +64,7 @@
           },
           {
             "result": {
-              "duration": 5428437900,
+              "duration": 5499958600,
               "status": "passed"
             },
             "line": 10,
@@ -161,7 +76,7 @@
           },
           {
             "result": {
-              "duration": 597668000,
+              "duration": 517073000,
               "status": "passed"
             },
             "line": 11,
@@ -177,7 +92,7 @@
         "before": [
           {
             "result": {
-              "duration": 13355013400,
+              "duration": 12943379800,
               "status": "passed"
             },
             "match": {
@@ -192,7 +107,7 @@
         "after": [
           {
             "result": {
-              "duration": 1099082000,
+              "duration": 1185298500,
               "status": "passed"
             },
             "match": {
@@ -205,7 +120,7 @@
         "steps": [
           {
             "result": {
-              "duration": 790600,
+              "duration": 1429700,
               "status": "passed"
             },
             "line": 8,
@@ -217,7 +132,7 @@
           },
           {
             "result": {
-              "duration": 195491800,
+              "duration": 164821600,
               "status": "passed"
             },
             "line": 9,
@@ -235,7 +150,7 @@
           },
           {
             "result": {
-              "duration": 5143521200,
+              "duration": 5013839600,
               "status": "passed"
             },
             "line": 10,
@@ -247,7 +162,7 @@
           },
           {
             "result": {
-              "duration": 714566500,
+              "duration": 165572700,
               "status": "passed"
             },
             "line": 11,
@@ -263,7 +178,7 @@
         "before": [
           {
             "result": {
-              "duration": 13636666800,
+              "duration": 13394821000,
               "status": "passed"
             },
             "match": {
@@ -278,7 +193,7 @@
         "after": [
           {
             "result": {
-              "duration": 1109109800,
+              "duration": 823454400,
               "status": "passed"
             },
             "match": {
@@ -291,7 +206,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1292700,
+              "duration": 1954000,
               "status": "passed"
             },
             "line": 8,
@@ -303,7 +218,7 @@
           },
           {
             "result": {
-              "duration": 195931700,
+              "duration": 202270200,
               "status": "passed"
             },
             "line": 9,
@@ -321,7 +236,7 @@
           },
           {
             "result": {
-              "duration": 4732206000,
+              "duration": 4008026400,
               "status": "passed"
             },
             "line": 10,
@@ -333,7 +248,7 @@
           },
           {
             "result": {
-              "duration": 121573600,
+              "duration": 390609800,
               "status": "passed"
             },
             "line": 11,
@@ -360,7 +275,7 @@
         "before": [
           {
             "result": {
-              "duration": 26126738400,
+              "duration": 13386953300,
               "status": "passed"
             },
             "match": {
@@ -375,7 +290,7 @@
         "after": [
           {
             "result": {
-              "duration": 746952800,
+              "duration": 823244200,
               "status": "passed"
             },
             "match": {
@@ -388,7 +303,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1408900,
+              "duration": 1989900,
               "status": "passed"
             },
             "line": 5,
@@ -400,7 +315,7 @@
           },
           {
             "result": {
-              "duration": 1231302900,
+              "duration": 161994700,
               "status": "passed"
             },
             "line": 6,
@@ -418,7 +333,7 @@
           },
           {
             "result": {
-              "duration": 6773162700,
+              "duration": 4433231700,
               "status": "passed"
             },
             "line": 7,
@@ -430,7 +345,7 @@
           },
           {
             "result": {
-              "duration": 7715990500,
+              "duration": 5041034400,
               "status": "passed"
             },
             "line": 8,
@@ -448,7 +363,7 @@
           },
           {
             "result": {
-              "duration": 1923014900,
+              "duration": 802529200,
               "status": "passed"
             },
             "line": 9,
@@ -475,7 +390,7 @@
         "before": [
           {
             "result": {
-              "duration": 14863465400,
+              "duration": 12771908900,
               "status": "passed"
             },
             "match": {
@@ -490,7 +405,7 @@
         "after": [
           {
             "result": {
-              "duration": 846475100,
+              "duration": 821591900,
               "status": "passed"
             },
             "match": {
@@ -503,7 +418,7 @@
         "steps": [
           {
             "result": {
-              "duration": 805800,
+              "duration": 1286300,
               "status": "passed"
             },
             "line": 5,
@@ -515,7 +430,7 @@
           },
           {
             "result": {
-              "duration": 267410000,
+              "duration": 160587900,
               "status": "passed"
             },
             "line": 6,
@@ -533,7 +448,7 @@
           },
           {
             "result": {
-              "duration": 6000557000,
+              "duration": 5227048800,
               "status": "passed"
             },
             "line": 7,
@@ -545,237 +460,7 @@
           },
           {
             "result": {
-              "duration": 8131295600,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "I select sort by \"Most Popular\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Most Popular\"",
-                  "offset": 17
-                }
-              ],
-              "location": "ShouldBeAbleToSortProductSteps.i_select_sort_by(String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 109700,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "I should view all products in a sorting order of \"Most Popular\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Most Popular\"",
-                  "offset": 49
-                }
-              ],
-              "location": "ShouldBeAbleToSortProductSteps.i_should_view_all_products_in_a_sorting_order_of(String)"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@sort"
-          }
-        ]
-      },
-      {
-        "before": [
-          {
-            "result": {
-              "duration": 15123935000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.setupBrowser()"
-            }
-          }
-        ],
-        "line": 15,
-        "name": "should be able to sort a product",
-        "description": "",
-        "id": "should-be-able-to-sort-product;should-be-able-to-sort-a-product;;4",
-        "after": [
-          {
-            "result": {
-              "duration": 731470700,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.closeBrowser(Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 1409000,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "As a user i am on the home page",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.as_a_user_i_am_on_the_home_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 235853800,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "I search for a product \"shirt\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"shirt\"",
-                  "offset": 23
-                }
-              ],
-              "location": "ShouldBeAbleToSearchProductSteps.i_search_for_a_product(String)"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 5334227800,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "I click search button",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.iClickSearchButton()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 6404755300,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "I select sort by \"Alphabetical\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Alphabetical\"",
-                  "offset": 17
-                }
-              ],
-              "location": "ShouldBeAbleToSortProductSteps.i_select_sort_by(String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 55800,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "I should view all products in a sorting order of \"Alphabetical\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Alphabetical\"",
-                  "offset": 49
-                }
-              ],
-              "location": "ShouldBeAbleToSortProductSteps.i_should_view_all_products_in_a_sorting_order_of(String)"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@sort"
-          }
-        ]
-      },
-      {
-        "before": [
-          {
-            "result": {
-              "duration": 14817439300,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.setupBrowser()"
-            }
-          }
-        ],
-        "line": 16,
-        "name": "should be able to sort a product",
-        "description": "",
-        "id": "should-be-able-to-sort-product;should-be-able-to-sort-a-product;;5",
-        "after": [
-          {
-            "result": {
-              "duration": 764536900,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.closeBrowser(Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 597200,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "As a user i am on the home page",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.as_a_user_i_am_on_the_home_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 169271300,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "I search for a product \"shirt\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"shirt\"",
-                  "offset": 23
-                }
-              ],
-              "location": "ShouldBeAbleToSearchProductSteps.i_search_for_a_product(String)"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 5143997000,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "I click search button",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.iClickSearchButton()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 5915676000,
+              "duration": 5020867400,
               "status": "passed"
             },
             "line": 8,
@@ -793,7 +478,7 @@
           },
           {
             "result": {
-              "duration": 1555826200,
+              "duration": 1340707300,
               "status": "passed"
             },
             "line": 9,
@@ -802,121 +487,6 @@
               "arguments": [
                 {
                   "val": "\"Price: Low - High\"",
-                  "offset": 49
-                }
-              ],
-              "location": "ShouldBeAbleToSortProductSteps.i_should_view_all_products_in_a_sorting_order_of(String)"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@sort"
-          }
-        ]
-      },
-      {
-        "before": [
-          {
-            "result": {
-              "duration": 14173711800,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.setupBrowser()"
-            }
-          }
-        ],
-        "line": 17,
-        "name": "should be able to sort a product",
-        "description": "",
-        "id": "should-be-able-to-sort-product;should-be-able-to-sort-a-product;;6",
-        "after": [
-          {
-            "result": {
-              "duration": 930969500,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.closeBrowser(Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 575400,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "As a user i am on the home page",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.as_a_user_i_am_on_the_home_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 191274000,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "I search for a product \"shirt\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"shirt\"",
-                  "offset": 23
-                }
-              ],
-              "location": "ShouldBeAbleToSearchProductSteps.i_search_for_a_product(String)"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 5527380000,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "I click search button",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.iClickSearchButton()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 6141435600,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "I select sort by \"Price: High - Low\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Price: High - Low\"",
-                  "offset": 17
-                }
-              ],
-              "location": "ShouldBeAbleToSortProductSteps.i_select_sort_by(String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 1594224000,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "I should view all products in a sorting order of \"Price: High - Low\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Price: High - Low\"",
                   "offset": 49
                 }
               ],

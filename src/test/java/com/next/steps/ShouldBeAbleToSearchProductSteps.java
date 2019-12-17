@@ -2,6 +2,7 @@ package com.next.steps;
 
 import com.next.pagaobjects.HomePage;
 
+import com.next.utils.Logs;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
@@ -18,6 +19,7 @@ public class ShouldBeAbleToSearchProductSteps {
 
     @Given("As a user i am on the home page")
     public void as_a_user_i_am_on_the_home_page() {
+        Logs.info("Steps of  " +this.getClass().getName() +" of a Test case are executing.........................................................................................................................................................!");
         homePage = new HomePage();
    }
 

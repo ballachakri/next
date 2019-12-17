@@ -10,7 +10,6 @@
     <version>1.0-SNAPSHOT</version>
 
 
-
     <name>next</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
@@ -57,7 +56,6 @@
             <version>${webdrivermanager.version}</version>
         </dependency>
 
-
         <!--Hamcrest dependency for assertion-->
         <dependency>
             <groupId>org.hamcrest</groupId>
@@ -72,7 +70,6 @@
             <version>1.3</version>
             <scope>test</scope>
         </dependency>
-
         <!--      log4j dependency for logging-->
 
         <dependency>
@@ -81,11 +78,14 @@
             <version>1.2.17</version>
         </dependency>
 
+        <!--To remove erro messages will launching the browser-->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-nop</artifactId>
             <version>1.7.28</version>
         </dependency>
+
+        <!--Database connection Driver dependecy-->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>

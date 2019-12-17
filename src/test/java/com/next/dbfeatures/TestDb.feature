@@ -1,3 +1,5 @@
+@dbcountry
+
 Feature: SAMPLE DATABASE TEST
 
   Scenario: database test

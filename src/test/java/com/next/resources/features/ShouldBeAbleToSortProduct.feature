@@ -11,7 +11,4 @@ Feature: SHOULD BE ABLE TO SORT PRODUCT
     Examples:
     |order|
     |Most Relevant|
-    |Most Popular|
-    |Alphabetical|
     |Price: Low - High|
-    |Price: High - Low|
