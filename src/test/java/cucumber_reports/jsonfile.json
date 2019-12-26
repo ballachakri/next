@@ -1,27 +1,27 @@
 [
   {
-    "line": 1,
+    "line": 2,
     "elements": [
       {
         "before": [
           {
             "result": {
-              "duration": 15492477700,
+              "duration": 33789515700,
               "status": "passed"
             },
             "match": {
-              "location": "Hooks.setupBrowser()"
+              "location": "Hooks.setupHomePage()"
             }
           }
         ],
-        "line": 15,
+        "line": 16,
         "name": "Should be able to search a product",
         "description": "",
         "id": "should-be-a-able-to-search-a-product;should-be-able-to-search-a-product;;2",
         "after": [
           {
             "result": {
-              "duration": 882825600,
+              "duration": 2620199400,
               "status": "passed"
             },
             "match": {
@@ -34,22 +34,22 @@
         "steps": [
           {
             "result": {
-              "duration": 84703500,
+              "duration": 242306300,
               "status": "passed"
             },
-            "line": 8,
-            "name": "As a user i am on the home page",
+            "line": 9,
+            "name": "I am on the home page",
             "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.as_a_user_i_am_on_the_home_page()"
+              "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 192356200,
+              "duration": 1246431200,
               "status": "passed"
             },
-            "line": 9,
+            "line": 10,
             "name": "I search for a product \"shirt\"",
             "match": {
               "arguments": [
@@ -64,10 +64,10 @@
           },
           {
             "result": {
-              "duration": 5499958600,
+              "duration": 15818933100,
               "status": "passed"
             },
-            "line": 10,
+            "line": 11,
             "name": "I click search button",
             "match": {
               "location": "ShouldBeAbleToSearchProductSteps.iClickSearchButton()"
@@ -76,15 +76,20 @@
           },
           {
             "result": {
-              "duration": 517073000,
+              "duration": 2239988800,
               "status": "passed"
             },
-            "line": 11,
+            "line": 12,
             "name": "I should view all the relevant products",
             "match": {
               "location": "ShouldBeAbleToSearchProductSteps.i_should_view_all_the_relevant_products()"
             },
             "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@search"
           }
         ]
       },
@@ -92,22 +97,22 @@
         "before": [
           {
             "result": {
-              "duration": 12943379800,
+              "duration": 25997641000,
               "status": "passed"
             },
             "match": {
-              "location": "Hooks.setupBrowser()"
+              "location": "Hooks.setupHomePage()"
             }
           }
         ],
-        "line": 16,
+        "line": 17,
         "name": "Should be able to search a product",
         "description": "",
         "id": "should-be-a-able-to-search-a-product;should-be-able-to-search-a-product;;3",
         "after": [
           {
             "result": {
-              "duration": 1185298500,
+              "duration": 1263928700,
               "status": "passed"
             },
             "match": {
@@ -120,22 +125,22 @@
         "steps": [
           {
             "result": {
-              "duration": 1429700,
+              "duration": 4436900,
               "status": "passed"
             },
-            "line": 8,
-            "name": "As a user i am on the home page",
+            "line": 9,
+            "name": "I am on the home page",
             "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.as_a_user_i_am_on_the_home_page()"
+              "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 164821600,
+              "duration": 1337347600,
               "status": "passed"
             },
-            "line": 9,
+            "line": 10,
             "name": "I search for a product \"shoe\"",
             "match": {
               "arguments": [
@@ -150,10 +155,10 @@
           },
           {
             "result": {
-              "duration": 5013839600,
+              "duration": 17543714500,
               "status": "passed"
             },
-            "line": 10,
+            "line": 11,
             "name": "I click search button",
             "match": {
               "location": "ShouldBeAbleToSearchProductSteps.iClickSearchButton()"
@@ -162,15 +167,20 @@
           },
           {
             "result": {
-              "duration": 165572700,
+              "duration": 1624611700,
               "status": "passed"
             },
-            "line": 11,
+            "line": 12,
             "name": "I should view all the relevant products",
             "match": {
               "location": "ShouldBeAbleToSearchProductSteps.i_should_view_all_the_relevant_products()"
             },
             "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@search"
           }
         ]
       },
@@ -178,22 +188,22 @@
         "before": [
           {
             "result": {
-              "duration": 13394821000,
+              "duration": 33116002100,
               "status": "passed"
             },
             "match": {
-              "location": "Hooks.setupBrowser()"
+              "location": "Hooks.setupHomePage()"
             }
           }
         ],
-        "line": 17,
+        "line": 18,
         "name": "Should be able to search a product",
         "description": "",
         "id": "should-be-a-able-to-search-a-product;should-be-able-to-search-a-product;;4",
         "after": [
           {
             "result": {
-              "duration": 823454400,
+              "duration": 1879765900,
               "status": "passed"
             },
             "match": {
@@ -206,22 +216,22 @@
         "steps": [
           {
             "result": {
-              "duration": 1954000,
+              "duration": 8802100,
               "status": "passed"
             },
-            "line": 8,
-            "name": "As a user i am on the home page",
+            "line": 9,
+            "name": "I am on the home page",
             "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.as_a_user_i_am_on_the_home_page()"
+              "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 202270200,
+              "duration": 1899258600,
               "status": "passed"
             },
-            "line": 9,
+            "line": 10,
             "name": "I search for a product \"jacket\"",
             "match": {
               "arguments": [
@@ -236,10 +246,10 @@
           },
           {
             "result": {
-              "duration": 4008026400,
+              "duration": 26578717600,
               "status": "passed"
             },
-            "line": 10,
+            "line": 11,
             "name": "I click search button",
             "match": {
               "location": "ShouldBeAbleToSearchProductSteps.iClickSearchButton()"
@@ -248,49 +258,43 @@
           },
           {
             "result": {
-              "duration": 390609800,
+              "duration": 4291843700,
               "status": "passed"
             },
-            "line": 11,
+            "line": 12,
             "name": "I should view all the relevant products",
             "match": {
               "location": "ShouldBeAbleToSearchProductSteps.i_should_view_all_the_relevant_products()"
             },
             "keyword": "Then "
           }
+        ],
+        "tags": [
+          {
+            "name": "@search"
+          }
         ]
-      }
-    ],
-    "name": "SHOULD BE A ABLE TO SEARCH A PRODUCT",
-    "description": "  As a end user\n  I will search for a product\n  then I should be able to view all the relevant products",
-    "id": "should-be-a-able-to-search-a-product",
-    "keyword": "Feature",
-    "uri": "src/test/java/com/next/resources/features/ShouldBeAbleToSearchProduct.feature",
-    "tags": []
-  },
-  {
-    "line": 2,
-    "elements": [
+      },
       {
         "before": [
           {
             "result": {
-              "duration": 13386953300,
+              "duration": 31333175100,
               "status": "passed"
             },
             "match": {
-              "location": "Hooks.setupBrowser()"
+              "location": "Hooks.setupHomePage()"
             }
           }
         ],
-        "line": 13,
-        "name": "should be able to sort a product",
+        "line": 19,
+        "name": "Should be able to search a product",
         "description": "",
-        "id": "should-be-able-to-sort-product;should-be-able-to-sort-a-product;;2",
+        "id": "should-be-a-able-to-search-a-product;should-be-able-to-search-a-product;;5",
         "after": [
           {
             "result": {
-              "duration": 823244200,
+              "duration": 787277400,
               "status": "passed"
             },
             "match": {
@@ -303,37 +307,148 @@
         "steps": [
           {
             "result": {
-              "duration": 1989900,
+              "duration": 2221500,
               "status": "passed"
             },
-            "line": 5,
-            "name": "As a user i am on the home page",
+            "line": 9,
+            "name": "I am on the home page",
             "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.as_a_user_i_am_on_the_home_page()"
+              "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 161994700,
+              "duration": 362962000,
               "status": "passed"
             },
-            "line": 6,
-            "name": "I search for a product \"shirt\"",
+            "line": 10,
+            "name": "I search for a product \"bags\"",
             "match": {
               "arguments": [
                 {
-                  "val": "\"shirt\"",
+                  "val": "\"bags\"",
                   "offset": 23
                 }
               ],
               "location": "ShouldBeAbleToSearchProductSteps.i_search_for_a_product(String)"
             },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4692935500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click search button",
+            "match": {
+              "location": "ShouldBeAbleToSearchProductSteps.iClickSearchButton()"
+            },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 4433231700,
+              "duration": 419200600,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I should view all the relevant products",
+            "match": {
+              "location": "ShouldBeAbleToSearchProductSteps.i_should_view_all_the_relevant_products()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@search"
+          }
+        ]
+      }
+    ],
+    "name": "SHOULD BE A ABLE TO SEARCH A PRODUCT",
+    "description": "  As a end user\n  I will search for a product\n  then I should be able to view all the relevant products",
+    "id": "should-be-a-able-to-search-a-product",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/next/resources/features/ShouldBeAbleToSearchProduct.feature",
+    "tags": [
+      {
+        "name": "@search",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 15966176800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setupHomePage()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "should be able to sort a product",
+        "description": "",
+        "id": "should-be-able-to-sort-product;should-be-able-to-sort-a-product;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 851203000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.closeBrowser(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1519400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on the home page",
+            "match": {
+              "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 223604300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I search for the an item \"shirt\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"shirt\"",
+                  "offset": 25
+                }
+              ],
+              "location": "ShouldBeAbleToSortProductSteps.i_search_for_the_an_item(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4554604400,
               "status": "passed"
             },
             "line": 7,
@@ -345,7 +460,7 @@
           },
           {
             "result": {
-              "duration": 5041034400,
+              "duration": 4114961700,
               "status": "passed"
             },
             "line": 8,
@@ -363,7 +478,7 @@
           },
           {
             "result": {
-              "duration": 802529200,
+              "duration": 843775300,
               "status": "passed"
             },
             "line": 9,
@@ -390,11 +505,11 @@
         "before": [
           {
             "result": {
-              "duration": 12771908900,
+              "duration": 13872931000,
               "status": "passed"
             },
             "match": {
-              "location": "Hooks.setupBrowser()"
+              "location": "Hooks.setupHomePage()"
             }
           }
         ],
@@ -405,7 +520,7 @@
         "after": [
           {
             "result": {
-              "duration": 821591900,
+              "duration": 714550300,
               "status": "passed"
             },
             "match": {
@@ -418,37 +533,37 @@
         "steps": [
           {
             "result": {
-              "duration": 1286300,
+              "duration": 1506000,
               "status": "passed"
             },
             "line": 5,
-            "name": "As a user i am on the home page",
+            "name": "I am on the home page",
             "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.as_a_user_i_am_on_the_home_page()"
+              "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 160587900,
+              "duration": 145258500,
               "status": "passed"
             },
             "line": 6,
-            "name": "I search for a product \"shirt\"",
+            "name": "I search for the an item \"shirt\"",
             "match": {
               "arguments": [
                 {
                   "val": "\"shirt\"",
-                  "offset": 23
+                  "offset": 25
                 }
               ],
-              "location": "ShouldBeAbleToSearchProductSteps.i_search_for_a_product(String)"
+              "location": "ShouldBeAbleToSortProductSteps.i_search_for_the_an_item(String)"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 5227048800,
+              "duration": 4301909400,
               "status": "passed"
             },
             "line": 7,
@@ -460,7 +575,7 @@
           },
           {
             "result": {
-              "duration": 5020867400,
+              "duration": 5330198500,
               "status": "passed"
             },
             "line": 8,
@@ -478,7 +593,7 @@
           },
           {
             "result": {
-              "duration": 1340707300,
+              "duration": 2091711800,
               "status": "passed"
             },
             "line": 9,

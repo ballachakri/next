@@ -6,15 +6,19 @@ import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 
+import java.net.MalformedURLException;
+
 public class Hooks extends BaseUIPageObjects {
 
     /**
      *
      */
     @Before
-    public void setupBrowser() {
-        Logs.startTestLog(getClass().getName().toString());
-        setHomePage();
+    public void setupHomePage() throws MalformedURLException {
+        Logs.startTestLog("test case name       :    "+getClass().getName().toString());
+        System.out.println("Current Running Thread ID  is    :    "+Thread.currentThread().getId());
+        setUpBrowser();
+
     }
 
     @After

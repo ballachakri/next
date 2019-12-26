@@ -2,7 +2,12 @@ $(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.
 formatter.feature({
   "name": "SHOULD BE A ABLE TO SEARCH A PRODUCT",
   "description": "  As a end user\n  I will search for a product\n  then I should be able to view all the relevant products",
-  "keyword": "Feature"
+  "keyword": "Feature",
+  "tags": [
+    {
+      "name": "@search"
+    }
+  ]
 });
 formatter.scenarioOutline({
   "name": "Should be able to search a product",
@@ -10,7 +15,7 @@ formatter.scenarioOutline({
   "keyword": "Scenario Outline"
 });
 formatter.step({
-  "name": "As a user i am on the home page",
+  "name": "I am on the home page",
   "keyword": "Given "
 });
 formatter.step({
@@ -49,23 +54,33 @@ formatter.examples({
       "cells": [
         "jacket"
       ]
+    },
+    {
+      "cells": [
+        "bags"
+      ]
     }
   ]
 });
 formatter.scenario({
   "name": "Should be able to search a product",
   "description": "",
-  "keyword": "Scenario Outline"
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "name": "@search"
+    }
+  ]
 });
 formatter.before({
   "status": "passed"
 });
 formatter.step({
-  "name": "As a user i am on the home page",
+  "name": "I am on the home page",
   "keyword": "Given "
 });
 formatter.match({
-  "location": "ShouldBeAbleToSearchProductSteps.as_a_user_i_am_on_the_home_page()"
+  "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
 });
 formatter.result({
   "status": "passed"
@@ -106,17 +121,22 @@ formatter.after({
 formatter.scenario({
   "name": "Should be able to search a product",
   "description": "",
-  "keyword": "Scenario Outline"
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "name": "@search"
+    }
+  ]
 });
 formatter.before({
   "status": "passed"
 });
 formatter.step({
-  "name": "As a user i am on the home page",
+  "name": "I am on the home page",
   "keyword": "Given "
 });
 formatter.match({
-  "location": "ShouldBeAbleToSearchProductSteps.as_a_user_i_am_on_the_home_page()"
+  "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
 });
 formatter.result({
   "status": "passed"
@@ -157,23 +177,84 @@ formatter.after({
 formatter.scenario({
   "name": "Should be able to search a product",
   "description": "",
-  "keyword": "Scenario Outline"
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "name": "@search"
+    }
+  ]
 });
 formatter.before({
   "status": "passed"
 });
 formatter.step({
-  "name": "As a user i am on the home page",
+  "name": "I am on the home page",
   "keyword": "Given "
 });
 formatter.match({
-  "location": "ShouldBeAbleToSearchProductSteps.as_a_user_i_am_on_the_home_page()"
+  "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
   "name": "I search for a product \"jacket\"",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "ShouldBeAbleToSearchProductSteps.i_search_for_a_product(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "I click search button",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "ShouldBeAbleToSearchProductSteps.iClickSearchButton()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "I should view all the relevant products",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "ShouldBeAbleToSearchProductSteps.i_should_view_all_the_relevant_products()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "Should be able to search a product",
+  "description": "",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "name": "@search"
+    }
+  ]
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.step({
+  "name": "I am on the home page",
+  "keyword": "Given "
+});
+formatter.match({
+  "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "I search for a product \"bags\"",
   "keyword": "When "
 });
 formatter.match({
@@ -222,11 +303,11 @@ formatter.scenarioOutline({
   "keyword": "Scenario Outline"
 });
 formatter.step({
-  "name": "As a user i am on the home page",
+  "name": "I am on the home page",
   "keyword": "Given "
 });
 formatter.step({
-  "name": "I search for a product \"shirt\"",
+  "name": "I search for the an item \"shirt\"",
   "keyword": "And "
 });
 formatter.step({
@@ -277,21 +358,21 @@ formatter.before({
   "status": "passed"
 });
 formatter.step({
-  "name": "As a user i am on the home page",
+  "name": "I am on the home page",
   "keyword": "Given "
 });
 formatter.match({
-  "location": "ShouldBeAbleToSearchProductSteps.as_a_user_i_am_on_the_home_page()"
+  "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "I search for a product \"shirt\"",
+  "name": "I search for the an item \"shirt\"",
   "keyword": "And "
 });
 formatter.match({
-  "location": "ShouldBeAbleToSearchProductSteps.i_search_for_a_product(String)"
+  "location": "ShouldBeAbleToSortProductSteps.i_search_for_the_an_item(String)"
 });
 formatter.result({
   "status": "passed"
@@ -343,21 +424,21 @@ formatter.before({
   "status": "passed"
 });
 formatter.step({
-  "name": "As a user i am on the home page",
+  "name": "I am on the home page",
   "keyword": "Given "
 });
 formatter.match({
-  "location": "ShouldBeAbleToSearchProductSteps.as_a_user_i_am_on_the_home_page()"
+  "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "I search for a product \"shirt\"",
+  "name": "I search for the an item \"shirt\"",
   "keyword": "And "
 });
 formatter.match({
-  "location": "ShouldBeAbleToSearchProductSteps.i_search_for_a_product(String)"
+  "location": "ShouldBeAbleToSortProductSteps.i_search_for_the_an_item(String)"
 });
 formatter.result({
   "status": "passed"

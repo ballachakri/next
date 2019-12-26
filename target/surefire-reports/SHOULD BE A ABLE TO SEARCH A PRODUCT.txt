@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: SHOULD BE A ABLE TO SEARCH A PRODUCT
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 209.168 s - in SHOULD BE A ABLE TO SEARCH A PRODUCT

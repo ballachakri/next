@@ -7,7 +7,7 @@
     <groupId>com.next</groupId>
     <artifactId>next</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0.1</version>
 
 
     <name>next</name>
@@ -70,26 +70,46 @@
             <version>1.3</version>
             <scope>test</scope>
         </dependency>
-        <!--      log4j dependency for logging-->
 
+<!--Dependency injection for sharing data between steps-->
+        <dependency>
+            <groupId>info.cukes</groupId>
+            <artifactId>cucumber-picocontainer</artifactId>
+            <version>1.2.5</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.picocontainer</groupId>
+            <artifactId>picocontainer</artifactId>
+            <version>2.15</version>
+        </dependency>
+
+
+        <!--      log4j dependency for logging-->
         <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
             <version>1.2.17</version>
         </dependency>
 
-        <!--To remove erro messages will launching the browser-->
+        <!--To remove error messages on console while launching the browser-->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-nop</artifactId>
             <version>1.7.28</version>
         </dependency>
 
-        <!--Database connection Driver dependecy-->
+        <!--Database connection Driver dependency-->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>8.0.18</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>htmlunit-driver</artifactId>
+            <version>2.24</version>
         </dependency>
 
 
@@ -114,13 +134,54 @@
                     <version>3.8.0</version>
                 </plugin>
                 <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-surefire-plugin</artifactId>
                     <version>2.22.1</version>
+                    <configuration>
+                        <parallel>classes</parallel>
+                        <useUnlimitedThreads>true</useUnlimitedThreads>
+                    </configuration>
                 </plugin>
                 <plugin>
                     <artifactId>maven-failsafe-plugin</artifactId>
                     <version>2.22.1</version>
+<!--                    <configuration>-->
+<!--                        <parallel>classes</parallel>-->
+<!--                        <threadCount>4</threadCount>-->
+<!--                        <perCoreThreadCount>true</perCoreThreadCount>-->
+<!--                    </configuration>-->
+<!--                    <executions>-->
+<!--                        <execution>-->
+<!--                            <goals>-->
+<!--                                <goal>integration-test</goal>-->
+<!--                                <goal>verify</goal>-->
+<!--                            </goals>-->
+<!--                        </execution>-->
+<!--                    </executions>-->
                 </plugin>
+<!--                <plugin>-->
+<!--                    <groupId>com.github.temyers</groupId>-->
+<!--                    <artifactId>cucumber-jvm-parallel-plugin</artifactId>-->
+<!--                    <version>4.2.0</version>-->
+<!--                    <executions>-->
+<!--                        <execution>-->
+<!--                            <id>generateRunners</id>-->
+<!--                            <phase>generate-test-sources</phase>-->
+<!--                            <goals>-->
+<!--                                <goal>generateRunners</goal>-->
+<!--                            </goals>-->
+<!--                            <configuration>-->
+<!--                                &lt;!&ndash; Mandatory &ndash;&gt;-->
+<!--                                &lt;!&ndash; List of package names to scan for glue code. &ndash;&gt;-->
+<!--                                <glue>-->
+<!--                                    <package>com.next</package>-->
+<!--                                </glue>-->
+<!--                                <parallelScheme>FEATURE</parallelScheme>-->
+
+<!--                            </configuration>-->
+<!--                        </execution>-->
+<!--                    </executions>-->
+<!--                </plugin>-->
                 <plugin>
                     <artifactId>maven-jar-plugin</artifactId>
                     <version>3.0.2</version>
@@ -144,5 +205,15 @@
                 </plugin>
             </plugins>
         </pluginManagement>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>8</source>
+                    <target>8</target>
+                </configuration>
+            </plugin>
+        </plugins>
     </build>
 </project>

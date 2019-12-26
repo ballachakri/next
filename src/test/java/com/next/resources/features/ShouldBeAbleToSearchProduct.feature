@@ -1,3 +1,4 @@
+@search
 Feature: SHOULD BE A ABLE TO SEARCH A PRODUCT
 
   As a end user
@@ -5,7 +6,7 @@ Feature: SHOULD BE A ABLE TO SEARCH A PRODUCT
   then I should be able to view all the relevant products
 
   Scenario Outline: Should be able to search a product
-    Given As a user i am on the home page
+    Given I am on the home page
     When I search for a product "<product>"
     And I click search button
     Then I should view all the relevant products
@@ -13,5 +14,6 @@ Feature: SHOULD BE A ABLE TO SEARCH A PRODUCT
     Examples:
     |product|
     | shirt |
-    | shoe  |
+    | shoe |
     | jacket |
+    | bags |

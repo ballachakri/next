@@ -2,11 +2,19 @@ package com.next.pagaobjects;
 
 import com.next.BaseConfig.BaseUIPageObjects;
 import com.next.utils.NamePattern;
+import com.next.utils.WaitFor;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
+import java.util.concurrent.TimeUnit;
+import java.util.logging.Logger;
 
 public class HomePage extends BaseUIPageObjects {
 
@@ -28,10 +36,9 @@ public class HomePage extends BaseUIPageObjects {
     @FindBy(css = "article[class*='Item  Fashion'] div[class='Price'] ")
     private List<WebElement> productPriceList;
 
-    private String product=null;
 
-    public void enterSearchProduct(String item) {
-
+    public void enterSearchProduct(final String item) {
+        System.out.println("HOME PAGE : ITEM SEARCHED    :  "+item );
         searchTextFiled.sendKeys(item);
     }
 
@@ -44,30 +51,30 @@ public class HomePage extends BaseUIPageObjects {
     }
 
     public void selectSortBy(String sortBy) {
-        sortDropDown.click();
+        new Actions(driver).click(sortDropDown).build().perform();
+        //sortDropDown.click();
         sortDropDown.sendKeys(sortBy);
     }
 
     public List<String> getAllSortedNameList() {
 
-        List<String> namesList=new ArrayList<String>();
+        List<String> namesList = new ArrayList<String>();
 
-        for(WebElement element: productNameList) {
+        for (WebElement element : productNameList) {
             namesList.add(element.getText());
         }
         return namesList;
     }
-    public List<Double> getAllSortedPriceList() {
 
-        List<Double> priceList= new ArrayList<>();
+    public Set<Double> getAllSortedPriceList() {
 
-        for(WebElement element: productPriceList) {
-            String str=element.getText();
-            String[] str1=str.replace("£","").split(" - ");
+        Set<Double> priceList = new HashSet<>();
+
+        for (WebElement element : productPriceList) {
+            String str = element.getText();
+            String[] str1 = str.replace("£", "").split(" - ");
             priceList.add(Double.parseDouble(str1[0]));
         }
         return priceList;
     }
-
-
 }
