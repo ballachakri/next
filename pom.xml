@@ -71,7 +71,7 @@
             <scope>test</scope>
         </dependency>
 
-<!--Dependency injection for sharing data between steps-->
+        <!--Dependency injection for sharing data between steps-->
         <dependency>
             <groupId>info.cukes</groupId>
             <artifactId>cucumber-picocontainer</artifactId>
@@ -112,6 +112,37 @@
             <version>2.24</version>
         </dependency>
 
+<!--Rest Assured Dependency for API testing in BDD format which also includes JsonPath artifacts-->
+
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>rest-assured</artifactId>
+            <version>4.1.2</version>
+            <scope>test</scope>
+        </dependency>
+
+<!--The dependency is for JSON Schema validation-->
+
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>json-schema-validator</artifactId>
+            <version>4.1.2</version>
+            <scope>test</scope>
+        </dependency>
+
+<!--the below two dependencies are for creating and parsE JSON obects-->
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-annotations</artifactId>
+            <version>2.9.9</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.9.9</version>
+        </dependency>
+
 
     </dependencies>
 
@@ -139,49 +170,14 @@
                     <version>2.22.1</version>
                     <configuration>
                         <parallel>classes</parallel>
-                        <useUnlimitedThreads>true</useUnlimitedThreads>
+                        <threadCount>4</threadCount>
                     </configuration>
                 </plugin>
                 <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-failsafe-plugin</artifactId>
                     <version>2.22.1</version>
-<!--                    <configuration>-->
-<!--                        <parallel>classes</parallel>-->
-<!--                        <threadCount>4</threadCount>-->
-<!--                        <perCoreThreadCount>true</perCoreThreadCount>-->
-<!--                    </configuration>-->
-<!--                    <executions>-->
-<!--                        <execution>-->
-<!--                            <goals>-->
-<!--                                <goal>integration-test</goal>-->
-<!--                                <goal>verify</goal>-->
-<!--                            </goals>-->
-<!--                        </execution>-->
-<!--                    </executions>-->
                 </plugin>
-<!--                <plugin>-->
-<!--                    <groupId>com.github.temyers</groupId>-->
-<!--                    <artifactId>cucumber-jvm-parallel-plugin</artifactId>-->
-<!--                    <version>4.2.0</version>-->
-<!--                    <executions>-->
-<!--                        <execution>-->
-<!--                            <id>generateRunners</id>-->
-<!--                            <phase>generate-test-sources</phase>-->
-<!--                            <goals>-->
-<!--                                <goal>generateRunners</goal>-->
-<!--                            </goals>-->
-<!--                            <configuration>-->
-<!--                                &lt;!&ndash; Mandatory &ndash;&gt;-->
-<!--                                &lt;!&ndash; List of package names to scan for glue code. &ndash;&gt;-->
-<!--                                <glue>-->
-<!--                                    <package>com.next</package>-->
-<!--                                </glue>-->
-<!--                                <parallelScheme>FEATURE</parallelScheme>-->
-
-<!--                            </configuration>-->
-<!--                        </execution>-->
-<!--                    </executions>-->
-<!--                </plugin>-->
                 <plugin>
                     <artifactId>maven-jar-plugin</artifactId>
                     <version>3.0.2</version>

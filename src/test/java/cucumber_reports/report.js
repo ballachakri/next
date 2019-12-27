@@ -405,7 +405,8 @@ formatter.match({
   "location": "ShouldBeAbleToSortProductSteps.i_should_view_all_products_in_a_sorting_order_of(String)"
 });
 formatter.result({
-  "status": "passed"
+  "error_message": "java.lang.AssertionError: Product are sorted incorrectly, please investigate\nExpected: a string containing \"shirt\" ignoring case\n     but: was \"White 2 Pack Long Sleeve Formal Blouse (3-16yrs)\"\r\n\tat org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:18)\r\n\tat com.next.steps.ShouldBeAbleToSortProductSteps.i_should_view_all_products_in_a_sorting_order_of(ShouldBeAbleToSortProductSteps.java:43)\r\n\tat ✽.I should view all products in a sorting order of \"Most Relevant\"(src/test/java/com/next/resources/features/ShouldBeAbleToSortProduct.feature:9)\r\n",
+  "status": "failed"
 });
 formatter.after({
   "status": "passed"
@@ -471,7 +472,8 @@ formatter.match({
   "location": "ShouldBeAbleToSortProductSteps.i_should_view_all_products_in_a_sorting_order_of(String)"
 });
 formatter.result({
-  "status": "passed"
+  "error_message": "java.util.NoSuchElementException\r\n\tat java.util.HashMap$HashIterator.nextNode(HashMap.java:1447)\r\n\tat java.util.HashMap$KeyIterator.next(HashMap.java:1469)\r\n\tat java.util.Collections.min(Collections.java:598)\r\n\tat com.next.steps.ShouldBeAbleToSortProductSteps.i_should_view_all_products_in_a_sorting_order_of(ShouldBeAbleToSortProductSteps.java:50)\r\n\tat ✽.I should view all products in a sorting order of \"Price: Low - High\"(src/test/java/com/next/resources/features/ShouldBeAbleToSortProduct.feature:9)\r\n",
+  "status": "failed"
 });
 formatter.after({
   "status": "passed"

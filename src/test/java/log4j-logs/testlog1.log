@@ -384,3 +384,383 @@
 2019-12-26 16:19:58,715 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
 2019-12-26 16:19:58,716 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
 2019-12-26 16:19:59,632 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:03:43,260 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:04:01,831 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:04:10,359 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:04:11,757 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:04:33,366 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:04:40,129 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:04:41,074 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:04:57,926 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:05:03,936 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:05:04,930 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:05:21,463 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:05:27,961 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:05:28,930 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:05:45,781 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:05:45,783 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:05:58,379 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:05:59,279 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:06:16,844 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:06:16,844 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:06:34,068 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:06:34,070 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:06:34,074 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:06:34,074 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:06:34,078 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:06:34,079 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:06:34,085 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:06:34,085 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:06:35,145 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:07:03,968 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:07:26,474 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:07:33,163 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:07:34,112 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:07:55,021 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:08:01,349 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:08:02,315 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:08:08,267 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:08:08,271 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:08:08,273 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:08:08,273 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:08:19,973 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:08:28,409 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:08:29,210 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:08:44,359 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:08:49,154 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:08:50,318 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:09:07,358 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:09:07,363 [main] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:09:19,616 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:09:20,447 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:09:36,713 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:09:36,714 [main] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:09:55,478 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:11:18,024 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:11:34,930 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:11:41,363 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:11:42,176 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:11:58,652 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:12:05,469 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:12:06,765 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:12:12,173 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:12:12,177 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:12:12,178 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:12:12,178 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:12:25,215 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:12:30,843 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:12:31,770 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:12:51,610 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:12:57,987 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:12:59,075 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:13:19,536 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:13:19,537 [main] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:13:35,521 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:13:36,907 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:13:53,839 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:13:53,841 [main] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:14:11,210 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:16:36,582 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:16:36,579 [pool-1-thread-2] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:16:38,538 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:16:38,539 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:16:58,033 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:16:58,169 [pool-1-thread-2] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:16:58,172 [pool-1-thread-2] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:17:05,549 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:17:06,103 [pool-1-thread-2] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:17:06,813 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:17:08,383 [pool-1-thread-2] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:17:34,629 [pool-1-thread-2] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:17:34,631 [pool-1-thread-2] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:17:34,632 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:17:39,950 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:17:40,780 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:18:17,299 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:18:17,861 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:18:17,865 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:18:17,871 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:18:17,872 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:18:17,874 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:18:17,875 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:18:30,532 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:18:35,995 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:19:33,480 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:19:49,916 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:19:54,723 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:19:55,597 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:20:12,469 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:20:18,555 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:20:19,258 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:20:33,170 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:20:39,264 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:20:40,075 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:20:55,230 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:20:59,763 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:21:00,714 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:21:15,557 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:21:15,558 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:21:25,438 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:21:26,158 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:21:40,754 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:21:40,755 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:21:51,942 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:21:51,946 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:21:51,954 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:21:51,955 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:21:51,959 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:21:51,960 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:21:51,963 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:21:51,964 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:21:52,502 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:43:28,770 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:43:49,044 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:43:54,986 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:43:56,065 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:44:12,615 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:44:17,853 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:44:18,929 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:44:34,181 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:44:39,492 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:44:40,371 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:44:55,742 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:45:00,080 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:45:01,077 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:45:17,652 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:45:17,655 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:45:30,295 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 17:45:31,080 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 17:45:50,893 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:45:50,897 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-26 17:46:04,636 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:46:04,645 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:46:04,660 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:46:04,660 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:46:04,664 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:46:04,665 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:46:04,683 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 17:46:04,683 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 17:46:05,976 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 18:36:43,519 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 18:37:02,449 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 18:37:09,275 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 18:37:10,628 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 18:37:29,450 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 18:37:37,253 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 18:37:38,226 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 18:37:53,135 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 18:37:58,382 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 18:37:59,283 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 18:38:18,627 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 18:38:23,241 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 18:38:24,210 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 18:38:37,686 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 18:38:37,688 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-26 18:38:49,452 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-26 18:38:50,604 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-26 18:39:06,210 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-26 18:39:06,211 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-26 18:39:18,763 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 18:39:18,770 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 18:39:18,770 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 18:39:18,770 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 18:39:18,790 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 18:39:18,791 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 18:39:18,799 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-26 18:39:18,799 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-26 18:39:20,241 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 10:54:45,558 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 10:54:45,667 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 10:54:45,698 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 10:54:45,745 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 10:54:45,792 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 10:54:45,839 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 10:58:31,523 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 10:58:31,945 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 10:58:32,258 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 10:58:32,820 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 10:58:34,023 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 10:58:34,445 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:07:50,199 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:07:50,246 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:07:50,262 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:07:50,277 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:07:50,309 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:07:50,324 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:08:06,265 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:08:29,164 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:08:35,508 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 11:08:36,930 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:08:55,251 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:09:00,376 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 11:09:01,224 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:09:14,680 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:09:18,599 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 11:09:19,343 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:09:32,524 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:09:32,525 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-27 11:09:32,528 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-27 11:09:32,534 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-27 11:09:32,534 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-27 11:09:32,535 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-27 11:09:32,537 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-27 11:09:36,647 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 11:09:38,057 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:09:51,819 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:09:51,821 [main] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:10:01,634 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-27 11:10:01,634 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-27 11:10:01,696 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 11:10:02,677 [main] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:10:02,801 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-27 11:10:02,801 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-27 11:10:16,875 [main] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:10:16,877 [main] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:10:26,897 [main] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 11:11:23,822 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:11:52,287 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:12:34,812 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 11:12:38,855 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:13:18,193 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:13:56,235 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 11:13:57,828 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:14:43,182 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:15:13,710 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 11:15:15,705 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:15:59,308 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:16:28,838 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 11:16:41,408 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:17:28,871 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:17:28,875 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:18:41,919 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-27 11:18:41,951 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-27 11:18:42,013 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-27 11:18:42,013 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-27 11:18:42,095 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-27 11:18:42,099 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-27 11:18:42,992 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 11:18:44,774 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 11:19:16,365 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:19:16,365 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-27 11:20:27,016 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 17:51:39,312 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 17:51:41,338 [pool-1-thread-1] DEBUG org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: standard
+2019-12-27 17:51:41,347 [pool-1-thread-1] DEBUG org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+2019-12-27 17:51:41,349 [pool-1-thread-1] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection request: [route: {s}->https://raw.githubusercontent.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-12-27 17:51:41,365 [pool-1-thread-1] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection leased: [id: 0][route: {s}->https://raw.githubusercontent.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-12-27 17:51:41,368 [pool-1-thread-1] DEBUG org.apache.http.impl.execchain.MainClientExec - Opening connection {s}->https://raw.githubusercontent.com:443
+2019-12-27 17:51:41,559 [pool-1-thread-1] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator - Connecting to raw.githubusercontent.com/151.101.16.133:443
+2019-12-27 17:51:41,559 [pool-1-thread-1] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory - Connecting socket to raw.githubusercontent.com/151.101.16.133:443 with timeout 0
+2019-12-27 17:51:41,877 [pool-1-thread-1] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2019-12-27 17:51:41,877 [pool-1-thread-1] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2019-12-27 17:51:41,877 [pool-1-thread-1] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory - Starting handshake
+2019-12-27 17:51:42,437 [pool-1-thread-1] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory - Secure session established
+2019-12-27 17:51:42,438 [pool-1-thread-1] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory -  negotiated protocol: TLSv1.2
+2019-12-27 17:51:42,440 [pool-1-thread-1] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory -  negotiated cipher suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+2019-12-27 17:51:42,442 [pool-1-thread-1] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory -  peer principal: CN=www.github.com, O="GitHub, Inc.", L=San Francisco, ST=California, C=US
+2019-12-27 17:51:42,445 [pool-1-thread-1] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory -  peer alternative names: [www.github.com, *.github.com, github.com, *.github.io, github.io, *.githubusercontent.com, githubusercontent.com]
+2019-12-27 17:51:42,451 [pool-1-thread-1] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory -  issuer principal: CN=DigiCert SHA2 High Assurance Server CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+2019-12-27 17:51:42,479 [pool-1-thread-1] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator - Connection established 172.20.10.4:53118<->151.101.16.133:443
+2019-12-27 17:51:42,480 [pool-1-thread-1] DEBUG org.apache.http.impl.conn.DefaultManagedHttpClientConnection - http-outgoing-0: set socket timeout to 30000
+2019-12-27 17:51:42,481 [pool-1-thread-1] DEBUG org.apache.http.impl.execchain.MainClientExec - Executing request GET /bonigarcia/webdrivermanager/master/src/main/resources/versions.properties HTTP/1.1
+2019-12-27 17:51:42,481 [pool-1-thread-1] DEBUG org.apache.http.impl.execchain.MainClientExec - Target auth state: UNCHALLENGED
+2019-12-27 17:51:42,483 [pool-1-thread-1] DEBUG org.apache.http.impl.execchain.MainClientExec - Proxy auth state: UNCHALLENGED
+2019-12-27 17:51:42,486 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/src/main/resources/versions.properties HTTP/1.1
+2019-12-27 17:51:42,488 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6
+2019-12-27 17:51:42,489 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 >> Connection: keep-alive
+2019-12-27 17:51:42,491 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 >> Host: raw.githubusercontent.com
+2019-12-27 17:51:42,492 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2019-12-27 17:51:42,492 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/src/main/resources/versions.properties HTTP/1.1[\r][\n]"
+2019-12-27 17:51:42,493 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6[\r][\n]"
+2019-12-27 17:51:42,494 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 >> "Connection: keep-alive[\r][\n]"
+2019-12-27 17:51:42,494 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+2019-12-27 17:51:42,494 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-12-27 17:51:42,495 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 >> "[\r][\n]"
+2019-12-27 17:51:42,612 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2019-12-27 17:51:42,612 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+2019-12-27 17:51:42,612 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+2019-12-27 17:51:42,612 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-12-27 17:51:42,612 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+2019-12-27 17:51:42,612 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-12-27 17:51:42,612 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "ETag: W/"c815ce7acd5181b54e0d388e771be3880aff256ffed72d33aa5f40baf8cfcd2d"[\r][\n]"
+2019-12-27 17:51:42,612 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+2019-12-27 17:51:42,612 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+2019-12-27 17:51:42,612 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Geo-Block-List:[\r][\n]"
+2019-12-27 17:51:42,612 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "X-GitHub-Request-Id: 4B0C:2BA2:C1194:10076D:5E064445[\r][\n]"
+2019-12-27 17:51:42,612 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2019-12-27 17:51:42,612 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "Content-Length: 672[\r][\n]"
+2019-12-27 17:51:42,612 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+2019-12-27 17:51:42,612 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "Date: Fri, 27 Dec 2019 17:51:41 GMT[\r][\n]"
+2019-12-27 17:51:42,628 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+2019-12-27 17:51:42,628 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2019-12-27 17:51:42,628 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Served-By: cache-lcy19223-LCY[\r][\n]"
+2019-12-27 17:51:42,628 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Cache: HIT[\r][\n]"
+2019-12-27 17:51:42,628 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Cache-Hits: 1[\r][\n]"
+2019-12-27 17:51:42,628 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Timer: S1577469102.643247,VS0,VE0[\r][\n]"
+2019-12-27 17:51:42,628 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "Vary: Authorization,Accept-Encoding[\r][\n]"
+2019-12-27 17:51:42,628 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2019-12-27 17:51:42,628 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "X-Fastly-Request-ID: 369400b2d5f86d44c6505999fb680ef3922d683e[\r][\n]"
+2019-12-27 17:51:42,628 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "Expires: Fri, 27 Dec 2019 17:56:41 GMT[\r][\n]"
+2019-12-27 17:51:42,628 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "Source-Age: 104[\r][\n]"
+2019-12-27 17:51:42,628 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "[\r][\n]"
+2019-12-27 17:51:42,628 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0x8d][0x95][0xcb][0xae][0xdb] [0x10]@[0xf7][0xf9][\n]"
+2019-12-27 17:51:42,628 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "[0xa4][0xbb]i[0x17][0xc1][0xbc][0xc]v$6}[0xae][0xaa].[0xda][0x1f]p[0x12][0x92]X[0xd7]1[0x11]vn[0xda]~}[0x19][0x1e].[0xd7]j[0xa5].[0xcf]1[0xc][0x13]f[0x98]<[0xa1][0xef][0x97]~B[0xa7]~0[0xe8]`[0xc7][0xb9][0xeb][0xc7][0x9][0xcd][0x17][0x83][0x9e]G[0xfb][0x18][0xd1][0x8b]qSo[0xbd]:Y[0x87][0x8e][0xae][0x7]Fo[0xf6][0xfd][0xd8][0xb9][0x9f]o[0xfd][0x86][0xeb][0xad][0x9b][0xfb][0xbd][0xdf][0xfb][0xe8][0xe7]K[0xd8]w[0xb0][0xce][0x99][0xe9]f[0xc7]c?[0x9e][0xd1][0xde][0xd9][0xc7]d\[0x8e][0xb3][0xd9]<[0xa1]wQ[0xed][0xd0]gk[0xcf]~[0xe7][0xfb][0x8b][0xb3]W[0x83][0xb6][0xe8]C[0x8][0xbf]C[0x87] [0xe2]a~[0xfd]7{w[0x7][0xb3]C[0x97]y[0xbe][0xed][0xaa][0xaa][0xfc][0x8a][0x3][0xf4][0xf7]+[0xb6][0xee]\[0x1d]}[0xc2][0x83][0xed][0x8e][0xd3]&[0xae]i[0x88]n[0x8]&[0x98][0xb7][0x8d][0xc2]T&[0xab]Z[0xad][0xda]`E[0x8d][0xf9]b[0x1b][0xad][0x9a]`[0x89][0xc0][0x94][0xd4]Y+[0xad][0x14][0xe8]F[0xd6]X[0x90]l[0xa5]V2X[0xd2]b[0xca][0x96][0x18][0xb5]V5h[0xa5][0x8][0xa6]V[0xb][0xad]D[0xd0][0xac][0xc5][0xcb]Z[0xae][0x15][0x7])[0x1b][0x8e]e[0x93]-[0xd3][0xc][0x8b]e[\r]}E[0x4]('&[ [0x91][0xa9][0x1]b[0x99][0x14][0x10][0xcd]$[0x81]r2[0xb2][0xf6][0xc4][0xf3]yR[0x0][0xa9]L[0x1c]([0x9f]'![0x17][0xbe][0x9c][0x7][0xb9][0xf0][0xe5]<[0xc8][0x85][0xf3]W[0xd5][0xfc]b[0xf5][0xc3][0xd0][0xa1]O[0xbd]3'[0xfb][0xa3][0xa8][0xe7][0xd9][0x1c][0x9e][0xed]_[0xcb]9[0xf9]z[0x9e]}[0xe3][0xdc][0xf7][0xd8][0xb7]Ru[0x8d]![0xaa]bC[0xe5][0xcc]`[0xba][0xc9]L[0x9b]S[0x8c][0xeb]8[0xc1][0xcc][0xdf][0xfe]"[0x1a][0x10]u![0x14][0x8]Q[0x8][0xb9][0x16][0xf5]Z[0x8][0x10][0xbc][0x10]|-[0x18][0x8]V[0x8][\n]"
+2019-12-27 17:51:42,643 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "[0x82][0x16][0x82][0xac]D[0xdd][0xae]E[0xb3][0x16]j-B[0xa6][0xa4][0x10]u[0x16][0xe5]U[0xbd][0x19][0xd7][0x15][0x17]l[0x81][0xff][0xe7][0x82][0xc3][0xc2][0xc9][0x9e][0xe6]G[0xe7]L[0xa4][0xfc][0x82][0xd6][0xd7][0x1d]>[0xfa][0x8b][0xfa][0xf3]*[0x1a][0x95][0xa4]([0xde][0x4]e$Y^[0xbe][0x9][0xce][0x92]e[0xe5][0x93] ymj[0xe5][0x0]u[Bj[0xe4][0x8][0xa9][0x8f]#[0xa4]6[0x8e][0x90][0xba]8Bj[0xe2][0x8][0xa9][0x87]#[0xa4][0x16][0x8e]@c[0xcf]F [0x5][0x8][0xc8] g, [0x3][0x9e][0xce][0x11][0x90][0x1]k[0x13][0xc8][0x8][0xaf][0x9a][0xbe]?8[0xb][0x17][0x8a]>[0x1e][0xcf][0xe5][0xc][0xbb]N[0xc6][0x8b][0xd6][0xe4]h^[0xcc][0x0]Q[0xf1]5G[0x8][0x5]2[0xe3][0xf6]>U[0x8b][0xdb]B[0x90]j[0xb6]v[0x98][0xaa][0x87][0xd9][0xa7][0x1a]m[0xc0].[0xc3]MR[0xdc][0x6][0xb3][0xc]6[\n]"
+2019-12-27 17:51:42,644 [pool-1-thread-1] DEBUG org.apache.http.wire - http-outgoing-0 << "}[0x1b]L[0x1a]j[0xc][0xea][0x15]M[0x9a]g[0x8c]/&[0xcd]2[0xda],[0xbb][0xd2][0x18][0xa3][0xbc][0xf5][0xad][0x17][0x94][0x10][0xfa][0xe6][0xcc][0xd6][0xff]5[0xcc][0xdd]0[0x98]c[0x94]LKL[0x15][0xf5]S! [0xd5][0xbe][0x1d]$kc6[0x82]h?Hk"y@[0xde]h[0xee]g"o#2([0xa0][0x1f][0xb3][0x8d][0x8c]H4[0xf5][0xc8]|}[0x3][0x7][0xde]/r[0x90][0x6][0x0][0x0]"
+2019-12-27 17:51:42,647 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << HTTP/1.1 200 OK
+2019-12-27 17:51:42,648 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+2019-12-27 17:51:42,648 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+2019-12-27 17:51:42,649 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << X-Content-Type-Options: nosniff
+2019-12-27 17:51:42,649 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << X-Frame-Options: deny
+2019-12-27 17:51:42,650 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2019-12-27 17:51:42,650 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << ETag: W/"c815ce7acd5181b54e0d388e771be3880aff256ffed72d33aa5f40baf8cfcd2d"
+2019-12-27 17:51:42,651 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+2019-12-27 17:51:42,651 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << Cache-Control: max-age=300
+2019-12-27 17:51:42,652 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << X-Geo-Block-List:
+2019-12-27 17:51:42,652 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << X-GitHub-Request-Id: 4B0C:2BA2:C1194:10076D:5E064445
+2019-12-27 17:51:42,652 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << Content-Encoding: gzip
+2019-12-27 17:51:42,653 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << Content-Length: 672
+2019-12-27 17:51:42,653 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << Accept-Ranges: bytes
+2019-12-27 17:51:42,654 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << Date: Fri, 27 Dec 2019 17:51:41 GMT
+2019-12-27 17:51:42,654 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << Via: 1.1 varnish
+2019-12-27 17:51:42,654 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << Connection: keep-alive
+2019-12-27 17:51:42,655 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << X-Served-By: cache-lcy19223-LCY
+2019-12-27 17:51:42,655 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << X-Cache: HIT
+2019-12-27 17:51:42,655 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << X-Cache-Hits: 1
+2019-12-27 17:51:42,656 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << X-Timer: S1577469102.643247,VS0,VE0
+2019-12-27 17:51:42,656 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << Vary: Authorization,Accept-Encoding
+2019-12-27 17:51:42,657 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << Access-Control-Allow-Origin: *
+2019-12-27 17:51:42,657 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << X-Fastly-Request-ID: 369400b2d5f86d44c6505999fb680ef3922d683e
+2019-12-27 17:51:42,657 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << Expires: Fri, 27 Dec 2019 17:56:41 GMT
+2019-12-27 17:51:42,658 [pool-1-thread-1] DEBUG org.apache.http.headers - http-outgoing-0 << Source-Age: 104
+2019-12-27 17:51:42,663 [pool-1-thread-1] DEBUG org.apache.http.impl.execchain.MainClientExec - Connection can be kept alive indefinitely
+2019-12-27 17:51:42,669 [pool-1-thread-1] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection [id: 0][route: {s}->https://raw.githubusercontent.com:443] can be kept alive indefinitely
+2019-12-27 17:51:42,669 [pool-1-thread-1] DEBUG org.apache.http.impl.conn.DefaultManagedHttpClientConnection - http-outgoing-0: set socket timeout to 0
+2019-12-27 17:51:42,669 [pool-1-thread-1] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection released: [id: 0][route: {s}->https://raw.githubusercontent.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-12-27 17:52:12,377 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 17:52:20,290 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 17:52:21,226 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 17:52:45,646 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 17:55:19,941 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 17:55:21,582 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 17:56:05,715 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 17:56:31,223 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 17:56:32,554 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 17:57:05,097 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 17:57:26,528 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 17:57:27,623 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 17:57:27,698 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-27 17:57:27,700 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-27 17:57:27,711 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-27 17:57:27,712 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-27 17:57:27,729 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-27 17:57:27,730 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-27 17:57:50,461 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 17:57:50,463 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-27 17:58:11,099 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!
+2019-12-27 17:58:12,097 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Started..........................................................!
+2019-12-27 17:58:27,569 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+2019-12-27 17:58:27,570 [pool-1-thread-1] INFO com.next.utils.Logs - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+2019-12-27 17:58:42,014 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2019-12-27 17:58:42,019 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2019-12-27 17:58:42,174 [pool-1-thread-1] INFO com.next.utils.Logs - .......................Test Ended............................................................!

@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 33789515700,
+              "duration": 33218372500,
               "status": "passed"
             },
             "match": {
@@ -21,7 +21,7 @@
         "after": [
           {
             "result": {
-              "duration": 2620199400,
+              "duration": 905343600,
               "status": "passed"
             },
             "match": {
@@ -34,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 242306300,
+              "duration": 71266000,
               "status": "passed"
             },
             "line": 9,
@@ -46,7 +46,7 @@
           },
           {
             "result": {
-              "duration": 1246431200,
+              "duration": 362814900,
               "status": "passed"
             },
             "line": 10,
@@ -64,7 +64,7 @@
           },
           {
             "result": {
-              "duration": 15818933100,
+              "duration": 7152536200,
               "status": "passed"
             },
             "line": 11,
@@ -76,7 +76,7 @@
           },
           {
             "result": {
-              "duration": 2239988800,
+              "duration": 328489700,
               "status": "passed"
             },
             "line": 12,
@@ -97,7 +97,7 @@
         "before": [
           {
             "result": {
-              "duration": 25997641000,
+              "duration": 24423167700,
               "status": "passed"
             },
             "match": {
@@ -112,7 +112,7 @@
         "after": [
           {
             "result": {
-              "duration": 1263928700,
+              "duration": 1625673000,
               "status": "passed"
             },
             "match": {
@@ -125,7 +125,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4436900,
+              "duration": 5803000,
               "status": "passed"
             },
             "line": 9,
@@ -137,7 +137,7 @@
           },
           {
             "result": {
-              "duration": 1337347600,
+              "duration": 202694200,
               "status": "passed"
             },
             "line": 10,
@@ -155,7 +155,7 @@
           },
           {
             "result": {
-              "duration": 17543714500,
+              "duration": 153763688200,
               "status": "passed"
             },
             "line": 11,
@@ -167,7 +167,7 @@
           },
           {
             "result": {
-              "duration": 1624611700,
+              "duration": 323107300,
               "status": "passed"
             },
             "line": 12,
@@ -188,7 +188,7 @@
         "before": [
           {
             "result": {
-              "duration": 33116002100,
+              "duration": 44137926800,
               "status": "passed"
             },
             "match": {
@@ -203,7 +203,7 @@
         "after": [
           {
             "result": {
-              "duration": 1879765900,
+              "duration": 1332135000,
               "status": "passed"
             },
             "match": {
@@ -216,7 +216,7 @@
         "steps": [
           {
             "result": {
-              "duration": 8802100,
+              "duration": 10183000,
               "status": "passed"
             },
             "line": 9,
@@ -228,7 +228,7 @@
           },
           {
             "result": {
-              "duration": 1899258600,
+              "duration": 2279006400,
               "status": "passed"
             },
             "line": 10,
@@ -246,7 +246,7 @@
           },
           {
             "result": {
-              "duration": 26578717600,
+              "duration": 21376995600,
               "status": "passed"
             },
             "line": 11,
@@ -258,7 +258,7 @@
           },
           {
             "result": {
-              "duration": 4291843700,
+              "duration": 1842681100,
               "status": "passed"
             },
             "line": 12,
@@ -279,7 +279,7 @@
         "before": [
           {
             "result": {
-              "duration": 31333175100,
+              "duration": 32537393200,
               "status": "passed"
             },
             "match": {
@@ -294,7 +294,7 @@
         "after": [
           {
             "result": {
-              "duration": 787277400,
+              "duration": 996404900,
               "status": "passed"
             },
             "match": {
@@ -307,7 +307,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2221500,
+              "duration": 12678800,
               "status": "passed"
             },
             "line": 9,
@@ -319,7 +319,7 @@
           },
           {
             "result": {
-              "duration": 362962000,
+              "duration": 1595311800,
               "status": "passed"
             },
             "line": 10,
@@ -337,7 +337,7 @@
           },
           {
             "result": {
-              "duration": 4692935500,
+              "duration": 19089436800,
               "status": "passed"
             },
             "line": 11,
@@ -349,7 +349,7 @@
           },
           {
             "result": {
-              "duration": 419200600,
+              "duration": 734167600,
               "status": "passed"
             },
             "line": 12,
@@ -390,7 +390,7 @@
         "before": [
           {
             "result": {
-              "duration": 15966176800,
+              "duration": 22844682800,
               "status": "passed"
             },
             "match": {
@@ -405,7 +405,7 @@
         "after": [
           {
             "result": {
-              "duration": 851203000,
+              "duration": 1853926700,
               "status": "passed"
             },
             "match": {
@@ -418,7 +418,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1519400,
+              "duration": 2023400,
               "status": "passed"
             },
             "line": 5,
@@ -430,7 +430,7 @@
           },
           {
             "result": {
-              "duration": 223604300,
+              "duration": 182821200,
               "status": "passed"
             },
             "line": 6,
@@ -448,7 +448,7 @@
           },
           {
             "result": {
-              "duration": 4554604400,
+              "duration": 10609720700,
               "status": "passed"
             },
             "line": 7,
@@ -460,7 +460,7 @@
           },
           {
             "result": {
-              "duration": 4114961700,
+              "duration": 6890546300,
               "status": "passed"
             },
             "line": 8,
@@ -478,8 +478,9 @@
           },
           {
             "result": {
-              "duration": 843775300,
-              "status": "passed"
+              "error_message": "java.lang.AssertionError: Product are sorted incorrectly, please investigate\nExpected: a string containing \"shirt\" ignoring case\n     but: was \"White 2 Pack Long Sleeve Formal Blouse (3-16yrs)\"\r\n\tat org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:18)\r\n\tat com.next.steps.ShouldBeAbleToSortProductSteps.i_should_view_all_products_in_a_sorting_order_of(ShouldBeAbleToSortProductSteps.java:43)\r\n\tat ✽.I should view all products in a sorting order of \"Most Relevant\"(src/test/java/com/next/resources/features/ShouldBeAbleToSortProduct.feature:9)\r\n",
+              "duration": 2076727700,
+              "status": "failed"
             },
             "line": 9,
             "name": "I should view all products in a sorting order of \"Most Relevant\"",
@@ -505,7 +506,7 @@
         "before": [
           {
             "result": {
-              "duration": 13872931000,
+              "duration": 15478602600,
               "status": "passed"
             },
             "match": {
@@ -520,7 +521,7 @@
         "after": [
           {
             "result": {
-              "duration": 714550300,
+              "duration": 3690448400,
               "status": "passed"
             },
             "match": {
@@ -533,7 +534,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1506000,
+              "duration": 1723300,
               "status": "passed"
             },
             "line": 5,
@@ -545,7 +546,7 @@
           },
           {
             "result": {
-              "duration": 145258500,
+              "duration": 204538400,
               "status": "passed"
             },
             "line": 6,
@@ -563,7 +564,7 @@
           },
           {
             "result": {
-              "duration": 4301909400,
+              "duration": 8031679600,
               "status": "passed"
             },
             "line": 7,
@@ -575,7 +576,7 @@
           },
           {
             "result": {
-              "duration": 5330198500,
+              "duration": 3025186200,
               "status": "passed"
             },
             "line": 8,
@@ -593,8 +594,9 @@
           },
           {
             "result": {
-              "duration": 2091711800,
-              "status": "passed"
+              "error_message": "java.util.NoSuchElementException\r\n\tat java.util.HashMap$HashIterator.nextNode(HashMap.java:1447)\r\n\tat java.util.HashMap$KeyIterator.next(HashMap.java:1469)\r\n\tat java.util.Collections.min(Collections.java:598)\r\n\tat com.next.steps.ShouldBeAbleToSortProductSteps.i_should_view_all_products_in_a_sorting_order_of(ShouldBeAbleToSortProductSteps.java:50)\r\n\tat ✽.I should view all products in a sorting order of \"Price: Low - High\"(src/test/java/com/next/resources/features/ShouldBeAbleToSortProduct.feature:9)\r\n",
+              "duration": 532789900,
+              "status": "failed"
             },
             "line": 9,
             "name": "I should view all products in a sorting order of \"Price: Low - High\"",

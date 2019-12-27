@@ -1,4 +1,13 @@
 -------------------------------------------------------------------------------
 Test set: SHOULD BE ABLE TO SORT PRODUCT
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 53.072 s - in SHOULD BE ABLE TO SORT PRODUCT
+Tests run: 2, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 75.529 s <<< FAILURE! - in SHOULD BE ABLE TO SORT PRODUCT
+should be able to sort a product(SHOULD BE ABLE TO SORT PRODUCT)  Time elapsed: 44.561 s  <<< FAILURE!
+java.lang.AssertionError: 
+Product are sorted incorrectly, please investigate
+Expected: a string containing "shirt" ignoring case
+     but: was "White 2 Pack Long Sleeve Formal Blouse (3-16yrs)"
+
+should be able to sort a product(SHOULD BE ABLE TO SORT PRODUCT)  Time elapsed: 30.965 s  <<< ERROR!
+java.util.NoSuchElementException
+

@@ -384,4 +384,384 @@
  2019-12-26 16:19:58 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
  2019-12-26 16:19:58 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
  2019-12-26 16:19:59 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:03:43 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:04:01 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:04:10 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:04:11 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:04:33 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:04:40 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:04:41 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:04:57 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:05:03 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:05:04 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:05:21 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:05:27 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:05:28 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:05:45 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:05:45 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:05:58 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:05:59 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:06:16 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:06:16 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:06:34 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:06:34 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:06:34 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:06:34 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:06:34 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:06:34 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:06:34 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:06:34 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:06:35 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:07:03 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:07:26 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:07:33 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:07:34 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:07:55 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:08:01 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:08:02 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:08:08 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:08:08 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:08:08 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:08:08 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:08:19 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:08:28 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:08:29 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:08:44 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:08:49 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:08:50 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:09:07 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:09:07 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:09:19 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:09:20 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:09:36 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:09:36 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:09:55 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:11:18 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:11:34 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:11:41 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:11:42 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:11:58 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:12:05 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:12:06 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:12:12 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:12:12 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:12:12 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:12:12 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:12:25 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:12:30 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:12:31 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:12:51 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:12:57 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:12:59 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:13:19 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:13:19 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:13:35 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:13:36 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:13:53 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:13:53 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:14:11 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:16:36 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:16:36 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:16:38 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:16:38 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:16:58 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:16:58 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:16:58 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:17:05 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:17:06 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:17:06 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:17:08 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:17:34 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:17:34 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:17:34 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:17:39 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:17:40 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:18:17 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:18:17 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:18:17 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:18:17 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:18:17 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:18:17 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:18:17 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:18:30 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:18:35 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:19:33 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:19:49 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:19:54 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:19:55 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:20:12 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:20:18 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:20:19 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:20:33 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:20:39 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:20:40 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:20:55 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:20:59 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:21:00 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:21:15 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:21:15 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:21:25 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:21:26 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:21:40 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:21:40 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:21:51 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:21:51 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:21:51 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:21:51 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:21:51 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:21:51 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:21:51 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:21:51 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:21:52 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:43:28 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:43:49 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:43:54 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:43:56 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:44:12 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:44:17 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:44:18 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:44:34 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:44:39 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:44:40 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:44:55 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:45:00 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:45:01 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:45:17 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:45:17 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:45:30 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 17:45:31 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 17:45:50 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:45:50 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 17:46:04 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:46:04 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:46:04 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:46:04 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:46:04 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:46:04 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:46:04 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 17:46:04 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 17:46:05 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 18:36:43 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 18:37:02 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 18:37:09 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 18:37:10 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 18:37:29 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 18:37:37 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 18:37:38 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 18:37:53 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 18:37:58 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 18:37:59 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 18:38:18 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 18:38:23 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 18:38:24 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 18:38:37 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 18:38:37 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 18:38:49 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-26 18:38:50 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-26 18:39:06 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 18:39:06 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-26 18:39:18 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 18:39:18 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 18:39:18 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 18:39:18 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 18:39:18 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 18:39:18 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 18:39:18 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-26 18:39:18 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-26 18:39:20 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 10:54:45 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 10:54:45 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 10:54:45 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 10:54:45 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 10:54:45 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 10:54:45 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 10:58:31 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 10:58:31 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 10:58:32 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 10:58:32 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 10:58:34 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 10:58:34 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:07:50 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:07:50 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:07:50 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:07:50 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:07:50 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:07:50 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:08:06 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:08:29 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:08:35 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 11:08:36 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:08:55 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:09:00 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 11:09:01 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:09:14 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:09:18 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 11:09:19 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:09:32 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:09:32 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-27 11:09:32 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-27 11:09:32 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-27 11:09:32 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-27 11:09:32 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-27 11:09:32 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-27 11:09:36 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 11:09:38 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:09:51 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:09:51 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:10:01 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-27 11:10:01 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-27 11:10:01 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 11:10:02 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:10:02 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-27 11:10:02 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-27 11:10:16 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:10:16 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:10:26 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 11:11:23 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:11:52 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:12:34 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 11:12:38 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:13:18 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:13:56 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 11:13:57 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:14:43 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:15:13 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 11:15:15 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:15:59 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:16:28 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 11:16:41 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:17:28 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:17:28 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:18:41 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-27 11:18:41 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-27 11:18:42 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-27 11:18:42 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-27 11:18:42 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-27 11:18:42 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-27 11:18:42 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 11:18:44 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 11:19:16 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:19:16 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 11:20:27 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 17:51:39 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 17:51:41 DEBUG RequestAddCookies:123 - CookieSpec selected: standard
+ 2019-12-27 17:51:41 DEBUG RequestAuthCache:77 - Auth cache not set in the context
+ 2019-12-27 17:51:41 DEBUG PoolingHttpClientConnectionManager:265 - Connection request: [route: {s}->https://raw.githubusercontent.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+ 2019-12-27 17:51:41 DEBUG PoolingHttpClientConnectionManager:309 - Connection leased: [id: 0][route: {s}->https://raw.githubusercontent.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+ 2019-12-27 17:51:41 DEBUG MainClientExec:235 - Opening connection {s}->https://raw.githubusercontent.com:443
+ 2019-12-27 17:51:41 DEBUG DefaultHttpClientConnectionOperator:139 - Connecting to raw.githubusercontent.com/151.101.16.133:443
+ 2019-12-27 17:51:41 DEBUG SSLConnectionSocketFactory:337 - Connecting socket to raw.githubusercontent.com/151.101.16.133:443 with timeout 0
+ 2019-12-27 17:51:41 DEBUG SSLConnectionSocketFactory:390 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+ 2019-12-27 17:51:41 DEBUG SSLConnectionSocketFactory:391 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+ 2019-12-27 17:51:41 DEBUG SSLConnectionSocketFactory:395 - Starting handshake
+ 2019-12-27 17:51:42 DEBUG SSLConnectionSocketFactory:425 - Secure session established
+ 2019-12-27 17:51:42 DEBUG SSLConnectionSocketFactory:426 -  negotiated protocol: TLSv1.2
+ 2019-12-27 17:51:42 DEBUG SSLConnectionSocketFactory:427 -  negotiated cipher suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+ 2019-12-27 17:51:42 DEBUG SSLConnectionSocketFactory:435 -  peer principal: CN=www.github.com, O="GitHub, Inc.", L=San Francisco, ST=California, C=US
+ 2019-12-27 17:51:42 DEBUG SSLConnectionSocketFactory:444 -  peer alternative names: [www.github.com, *.github.com, github.com, *.github.io, github.io, *.githubusercontent.com, githubusercontent.com]
+ 2019-12-27 17:51:42 DEBUG SSLConnectionSocketFactory:448 -  issuer principal: CN=DigiCert SHA2 High Assurance Server CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+ 2019-12-27 17:51:42 DEBUG DefaultHttpClientConnectionOperator:146 - Connection established 172.20.10.4:53118<->151.101.16.133:443
+ 2019-12-27 17:51:42 DEBUG DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 30000
+ 2019-12-27 17:51:42 DEBUG MainClientExec:256 - Executing request GET /bonigarcia/webdrivermanager/master/src/main/resources/versions.properties HTTP/1.1
+ 2019-12-27 17:51:42 DEBUG MainClientExec:261 - Target auth state: UNCHALLENGED
+ 2019-12-27 17:51:42 DEBUG MainClientExec:267 - Proxy auth state: UNCHALLENGED
+ 2019-12-27 17:51:42 DEBUG headers:133 - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/src/main/resources/versions.properties HTTP/1.1
+ 2019-12-27 17:51:42 DEBUG headers:136 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6
+ 2019-12-27 17:51:42 DEBUG headers:136 - http-outgoing-0 >> Connection: keep-alive
+ 2019-12-27 17:51:42 DEBUG headers:136 - http-outgoing-0 >> Host: raw.githubusercontent.com
+ 2019-12-27 17:51:42 DEBUG headers:136 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/src/main/resources/versions.properties HTTP/1.1[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 >> "Connection: keep-alive[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 >> "[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "ETag: W/"c815ce7acd5181b54e0d388e771be3880aff256ffed72d33aa5f40baf8cfcd2d"[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "X-Geo-Block-List:[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "X-GitHub-Request-Id: 4B0C:2BA2:C1194:10076D:5E064445[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "Content-Length: 672[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "Date: Fri, 27 Dec 2019 17:51:41 GMT[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "X-Served-By: cache-lcy19223-LCY[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "X-Cache: HIT[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "X-Cache-Hits: 1[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "X-Timer: S1577469102.643247,VS0,VE0[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "Vary: Authorization,Accept-Encoding[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "X-Fastly-Request-ID: 369400b2d5f86d44c6505999fb680ef3922d683e[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "Expires: Fri, 27 Dec 2019 17:56:41 GMT[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "Source-Age: 104[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "[\r][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0x8d][0x95][0xcb][0xae][0xdb] [0x10]@[0xf7][0xf9][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "[0xa4][0xbb]i[0x17][0xc1][0xbc][0xc]v$6}[0xae][0xaa].[0xda][0x1f]p[0x12][0x92]X[0xd7]1[0x11]vn[0xda]~}[0x19][0x1e].[0xd7]j[0xa5].[0xcf]1[0xc][0x13]f[0x98]<[0xa1][0xef][0x97]~B[0xa7]~0[0xe8]`[0xc7][0xb9][0xeb][0xc7][0x9][0xcd][0x17][0x83][0x9e]G[0xfb][0x18][0xd1][0x8b]qSo[0xbd]:Y[0x87][0x8e][0xae][0x7]Fo[0xf6][0xfd][0xd8][0xb9][0x9f]o[0xfd][0x86][0xeb][0xad][0x9b][0xfb][0xbd][0xdf][0xfb][0xe8][0xe7]K[0xd8]w[0xb0][0xce][0x99][0xe9]f[0xc7]c?[0x9e][0xd1][0xde][0xd9][0xc7]d\[0x8e][0xb3][0xd9]<[0xa1]wQ[0xed][0xd0]gk[0xcf]~[0xe7][0xfb][0x8b][0xb3]W[0x83][0xb6][0xe8]C[0x8][0xbf]C[0x87] [0xe2]a~[0xfd]7{w[0x7][0xb3]C[0x97]y[0xbe][0xed][0xaa][0xaa][0xfc][0x8a][0x3][0xf4][0xf7]+[0xb6][0xee]\[0x1d]}[0xc2][0x83][0xed][0x8e][0xd3]&[0xae]i[0x88]n[0x8]&[0x98][0xb7][0x8d][0xc2]T&[0xab]Z[0xad][0xda]`E[0x8d][0xf9]b[0x1b][0xad][0x9a]`[0x89][0xc0][0x94][0xd4]Y+[0xad][0x14][0xe8]F[0xd6]X[0x90]l[0xa5]V2X[0xd2]b[0xca][0x96][0x18][0xb5]V5h[0xa5][0x8][0xa6]V[0xb][0xad]D[0xd0][0xac][0xc5][0xcb]Z[0xae][0x15][0x7])[0x1b][0x8e]e[0x93]-[0xd3][0xc][0x8b]e[\r]}E[0x4]('&[ [0x91][0xa9][0x1]b[0x99][0x14][0x10][0xcd]$[0x81]r2[0xb2][0xf6][0xc4][0xf3]yR[0x0][0xa9]L[0x1c]([0x9f]'![0x17][0xbe][0x9c][0x7][0xb9][0xf0][0xe5]<[0xc8][0x85][0xf3]W[0xd5][0xfc]b[0xf5][0xc3][0xd0][0xa1]O[0xbd]3'[0xfb][0xa3][0xa8][0xe7][0xd9][0x1c][0x9e][0xed]_[0xcb]9[0xf9]z[0x9e]}[0xe3][0xdc][0xf7][0xd8][0xb7]Ru[0x8d]![0xaa]bC[0xe5][0xcc]`[0xba][0xc9]L[0x9b]S[0x8c][0xeb]8[0xc1][0xcc][0xdf][0xfe]"[0x1a][0x10]u![0x14][0x8]Q[0x8][0xb9][0x16][0xf5]Z[0x8][0x10][0xbc][0x10]|-[0x18][0x8]V[0x8][\n]"
+ 2019-12-27 17:51:42 DEBUG wire:73 - http-outgoing-0 << "[0x82][0x16][0x82][0xac]D[0xdd][0xae]E[0xb3][0x16]j-B[0xa6][0xa4][0x10]u[0x16][0xe5]U[0xbd][0x19][0xd7][0x15][0x17]l[0x81][0xff][0xe7][0x82][0xc3][0xc2][0xc9][0x9e][0xe6]G[0xe7]L[0xa4][0xfc][0x82][0xd6][0xd7][0x1d]>[0xfa][0x8b][0xfa][0xf3]*[0x1a][0x95][0xa4]([0xde][0x4]e$Y^[0xbe][0x9][0xce][0x92]e[0xe5][0x93] ymj[0xe5][0x0]u[Bj[0xe4][0x8][0xa9][0x8f]#[0xa4]6[0x8e][0x90][0xba]8Bj[0xe2][0x8][0xa9][0x87]#[0xa4][0x16][0x8e]@c[0xcf]F [0x5][0x8][0xc8] g, [0x3][0x9e][0xce][0x11][0x90][0x1]k[0x13][0xc8][0x8][0xaf][0x9a][0xbe]?8[0xb][0x17][0x8a]>[0x1e][0xcf][0xe5][0xc][0xbb]N[0xc6][0x8b][0xd6][0xe4]h^[0xcc][0x0]Q[0xf1]5G[0x8][0x5]2[0xe3][0xf6]>U[0x8b][0xdb]B[0x90]j[0xb6]v[0x98][0xaa][0x87][0xd9][0xa7][0x1a]m[0xc0].[0xc3]MR[0xdc][0x6][0xb3][0xc]6[\n]"
+ 2019-12-27 17:51:42 DEBUG wire:87 - http-outgoing-0 << "}[0x1b]L[0x1a]j[0xc][0xea][0x15]M[0x9a]g[0x8c]/&[0xcd]2[0xda],[0xbb][0xd2][0x18][0xa3][0xbc][0xf5][0xad][0x17][0x94][0x10][0xfa][0xe6][0xcc][0xd6][0xff]5[0xcc][0xdd]0[0x98]c[0x94]LKL[0x15][0xf5]S! [0xd5][0xbe][0x1d]$kc6[0x82]h?Hk"y@[0xde]h[0xee]g"o#2([0xa0][0x1f][0xb3][0x8d][0x8c]H4[0xf5][0xc8]|}[0x3][0x7][0xde]/r[0x90][0x6][0x0][0x0]"
+ 2019-12-27 17:51:42 DEBUG headers:122 - http-outgoing-0 << HTTP/1.1 200 OK
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << X-Content-Type-Options: nosniff
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << X-Frame-Options: deny
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << ETag: W/"c815ce7acd5181b54e0d388e771be3880aff256ffed72d33aa5f40baf8cfcd2d"
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << Cache-Control: max-age=300
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << X-Geo-Block-List:
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << X-GitHub-Request-Id: 4B0C:2BA2:C1194:10076D:5E064445
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << Content-Encoding: gzip
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << Content-Length: 672
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << Accept-Ranges: bytes
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << Date: Fri, 27 Dec 2019 17:51:41 GMT
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << Via: 1.1 varnish
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << Connection: keep-alive
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << X-Served-By: cache-lcy19223-LCY
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << X-Cache: HIT
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << X-Cache-Hits: 1
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << X-Timer: S1577469102.643247,VS0,VE0
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << Vary: Authorization,Accept-Encoding
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << Access-Control-Allow-Origin: *
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << X-Fastly-Request-ID: 369400b2d5f86d44c6505999fb680ef3922d683e
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << Expires: Fri, 27 Dec 2019 17:56:41 GMT
+ 2019-12-27 17:51:42 DEBUG headers:125 - http-outgoing-0 << Source-Age: 104
+ 2019-12-27 17:51:42 DEBUG MainClientExec:285 - Connection can be kept alive indefinitely
+ 2019-12-27 17:51:42 DEBUG PoolingHttpClientConnectionManager:341 - Connection [id: 0][route: {s}->https://raw.githubusercontent.com:443] can be kept alive indefinitely
+ 2019-12-27 17:51:42 DEBUG DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 0
+ 2019-12-27 17:51:42 DEBUG PoolingHttpClientConnectionManager:348 - Connection released: [id: 0][route: {s}->https://raw.githubusercontent.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+ 2019-12-27 17:52:12 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 17:52:20 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 17:52:21 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 17:52:45 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 17:55:19 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 17:55:21 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 17:56:05 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 17:56:31 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 17:56:32 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 17:57:05 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 17:57:26 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 17:57:27 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 17:57:27 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-27 17:57:27 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-27 17:57:27 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-27 17:57:27 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-27 17:57:27 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-27 17:57:27 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-27 17:57:50 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 17:57:50 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 17:58:11 INFO  Logs:21 - .......................Test Ended............................................................!
+ 2019-12-27 17:58:12 INFO  Logs:17 - .......................Test Started..........................................................!
+ 2019-12-27 17:58:27 INFO  Logs:25 - >>>>>>>>>>>>>>>> : com.next.steps.ShouldBeAbleToSearchProductSteps : STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 17:58:27 INFO  Logs:25 - >>>>>>> com.next.steps.ShouldBeAbleToSortProductSteps STEPS ARE BEING EXECUTING.........................!
+ 2019-12-27 17:58:42 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2019-12-27 17:58:42 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2019-12-27 17:58:42 INFO  Logs:21 - .......................Test Ended............................................................!
  
