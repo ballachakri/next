@@ -1,1 +1,1 @@
-src/test/java/com/next/resources/features/ShouldBeAbleToSortProduct.feature:13:14
+src/test/java/com/next/resources/features/ShouldBeAbleToSortProduct.feature:13

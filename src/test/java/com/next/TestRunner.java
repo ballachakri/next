@@ -7,12 +7,14 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-         tags ={"not @dbcountry"},
+        tags ={"@register"},
+        features = {"src/test"},
+  //      glue = {"src/test/java/com/next/steps"},
         plugin =  {
         "html:src/test/java/cucumber_reports",
         "json:src/test/java/cucumber_reports/jsonfile.json",
-        "rerun:sec/test/java/screenshot/failedTest.txt" },
-        features = {"src/test"})
+        "rerun:src/test/java/screenshot/failedTest.txt" }
+       )
 public class TestRunner {
 
 }

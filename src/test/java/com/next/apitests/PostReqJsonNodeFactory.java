@@ -59,7 +59,7 @@ public class PostReqJsonNodeFactory {
                 .contentType("application/json")
                 .body(customerData)
         .when()
-                .post()
+      //          .post()
         .then()
                 .statusCode(200)
         .and()

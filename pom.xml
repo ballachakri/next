@@ -84,7 +84,6 @@
             <version>2.15</version>
         </dependency>
 
-
         <!--      log4j dependency for logging-->
         <dependency>
             <groupId>log4j</groupId>
@@ -142,10 +141,7 @@
             <artifactId>jackson-databind</artifactId>
             <version>2.9.9</version>
         </dependency>
-
-
     </dependencies>
-
 
     <build>
         <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
@@ -170,7 +166,7 @@
                     <version>2.22.1</version>
                     <configuration>
                         <parallel>classes</parallel>
-                        <threadCount>4</threadCount>
+                        <useUnlimitedThreads>true</useUnlimitedThreads>
                     </configuration>
                 </plugin>
                 <plugin>
@@ -210,6 +206,7 @@
                     <target>8</target>
                 </configuration>
             </plugin>
+
         </plugins>
     </build>
 </project>

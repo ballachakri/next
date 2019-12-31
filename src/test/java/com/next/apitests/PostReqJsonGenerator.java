@@ -64,7 +64,7 @@ public class PostReqJsonGenerator {
                 .contentType("application/json")
           //      .body("src/test/java/com/next/apitests/customer.json")
         .when()
-                .post()
+          //      .post()
         .then()
                 .statusCode(200)
         .and()

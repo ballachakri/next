@@ -12,8 +12,8 @@ Feature: SHOULD BE A ABLE TO SEARCH A PRODUCT
     Then I should view all the relevant products
 
     Examples:
-    |product|
-    | shirt |
-    | shoe |
-    | jacket |
-    | bags |
+      | product |
+      | shirt   |
+      | shoe    |
+      | jacket  |
+      | bags    |

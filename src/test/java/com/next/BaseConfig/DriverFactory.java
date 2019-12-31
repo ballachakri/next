@@ -4,6 +4,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
@@ -15,29 +16,34 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-public class DriverFactory extends BaseUIPageObjects {
+public class DriverFactory {
 
     private String browser = System.getProperty("browser");
     private String testEnvironment = System.getProperty("env");
     private String platform = System.getProperty("platform");
     private String type = System.getProperty("type");
 
+//    private String browser = "chrome";
+//    private String testEnvironment = "test";
+//    private String platform = "local";
+//    private String type="web";
+
     private final String url="http://192.168.56.1:4444/wd/hub";
 
     // This method set up and returns Browser Type and required Platform
     public WebDriver getBrowserType() {
 
-        System.out.println(String.format("The Tests will be executing on the Browser : '%s' ", browser));
-        System.out.println(String.format("The Tests will be executing on the Platform : '%s' ", platform));
-        System.out.println(String.format("The Tests will be executing on test environment : '%s' ", testEnvironment));
+        System.out.println(String.format("The Tests will be executing on : '%s' : BROWSER : '%s' : PLATFORM : '%s' : ENVIRONMENT", browser,platform,testEnvironment));
 
         switch (browser) {
             case "chrome": {
                 if (platform.equalsIgnoreCase("local")) {
                     WebDriverManager.chromedriver().setup();
-                     return new ChromeDriver();
+      //              ChromeOptions options=new ChromeOptions().setHeadless(true);
+                      return new ChromeDriver();
                 } else if (platform.equalsIgnoreCase("grid")) {
                     DesiredCapabilities cap = DesiredCapabilities.chrome();
+                    cap.setPlatform(Platform.ANY);
                     try {
                         return new RemoteWebDriver(new URL(url), cap);
                     } catch (MalformedURLException e) {
@@ -105,7 +111,7 @@ public class DriverFactory extends BaseUIPageObjects {
                 }
             }
             case "htmlunit": {
-                driver = new HtmlUnitDriver(true);
+                new HtmlUnitDriver(true);
                 return new HtmlUnitDriver();
             }
             default: {

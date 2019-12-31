@@ -55,7 +55,7 @@ public class PostReqObjectMapper1 {
             .contentType("application/json")
             .body(str)
     .when()
-            .post()
+      //      .post()
     .then()
             .statusCode(200)
             .statusLine("HTTP/1.1 200 OK")

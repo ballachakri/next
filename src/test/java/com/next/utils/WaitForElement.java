@@ -1,17 +1,11 @@
 package com.next.utils;
 
 import com.next.BaseConfig.BaseUIPageObjects;
-import org.openqa.selenium.StaleElementReferenceException;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.FluentWait;
-import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import java.util.concurrent.TimeUnit;
-
-public class WaitFor extends BaseUIPageObjects {
+public class WaitForElement extends BaseUIPageObjects {
 
 public static void clickable(WebElement element) {
     WebDriverWait wait=new WebDriverWait(driver, 3000);

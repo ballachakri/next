@@ -8,17 +8,13 @@ public class Logs {
 
     private static Logger logger = Logger.getLogger(Logs.class);
 
-
-
-
-
     public static void startTestLog(String testCaseName) {
      PropertyConfigurator.configure("log4j.properties");
-        logger.info(".......................Test Started..........................................................!");
+        logger.info(".......................TEST STARTED.....................!");
     }
 
     public static void endTestLog(String testCaseName) {
-        logger.info(".......................Test Ended............................................................!");
+        logger.info(".......................TEST FINISHED........................!");
     }
 
     public static void info(String msg) {

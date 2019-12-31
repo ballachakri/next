@@ -8,15 +8,16 @@ import cucumber.api.java.Before;
 
 import java.net.MalformedURLException;
 
+/**
+ * Hooks
+ * Provides Before and After methods
+ */
 public class Hooks extends BaseUIPageObjects {
 
-    /**
-     *
-     */
     @Before
     public void setupHomePage() throws MalformedURLException {
-        Logs.startTestLog("test case name       :    "+getClass().getName().toString());
-        System.out.println("Current Running Thread ID  is    :    "+Thread.currentThread().getId());
+        Logs.startTestLog("TEST CASE NAME   ----    :    " + getClass().getName().toString().toUpperCase());
+        System.out.println(String.format("CURRENT JVM THREAD ID - : '%s :' AND CURRENT THREAD NAME - : '%s :'  ", Thread.currentThread().getId(), Thread.currentThread().getName()));
         setUpBrowser();
 
     }
@@ -25,6 +26,7 @@ public class Hooks extends BaseUIPageObjects {
     public void closeBrowser(Scenario scenario) {
         if (scenario.isFailed()) {
             ScreenShot.getScreenShot(scenario.getName());
+            ScreenShot.embedPhoto(scenario);
         }
         Logs.endTestLog(getClass().getName().toString());
         tearDown();

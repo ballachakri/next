@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 33218372500,
+              "duration": 17406038000,
               "status": "passed"
             },
             "match": {
@@ -14,14 +14,14 @@
             }
           }
         ],
-        "line": 16,
-        "name": "Should be able to search a product",
+        "line": 7,
+        "name": "Should be able Register",
         "description": "",
-        "id": "should-be-a-able-to-search-a-product;should-be-able-to-search-a-product;;2",
+        "id": "should-be-able-to-register;should-be-able-register",
         "after": [
           {
             "result": {
-              "duration": 905343600,
+              "duration": 1113321000,
               "status": "passed"
             },
             "match": {
@@ -30,14 +30,14 @@
           }
         ],
         "type": "scenario",
-        "keyword": "Scenario Outline",
+        "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 71266000,
+              "duration": 3963800,
               "status": "passed"
             },
-            "line": 9,
+            "line": 8,
             "name": "I am on the home page",
             "match": {
               "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
@@ -46,587 +46,134 @@
           },
           {
             "result": {
-              "duration": 362814900,
-              "status": "passed"
-            },
-            "line": 10,
-            "name": "I search for a product \"shirt\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"shirt\"",
-                  "offset": 23
-                }
-              ],
-              "location": "ShouldBeAbleToSearchProductSteps.i_search_for_a_product(String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 7152536200,
-              "status": "passed"
-            },
-            "line": 11,
-            "name": "I click search button",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.iClickSearchButton()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 328489700,
-              "status": "passed"
-            },
-            "line": 12,
-            "name": "I should view all the relevant products",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.i_should_view_all_the_relevant_products()"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@search"
-          }
-        ]
-      },
-      {
-        "before": [
-          {
-            "result": {
-              "duration": 24423167700,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.setupHomePage()"
-            }
-          }
-        ],
-        "line": 17,
-        "name": "Should be able to search a product",
-        "description": "",
-        "id": "should-be-a-able-to-search-a-product;should-be-able-to-search-a-product;;3",
-        "after": [
-          {
-            "result": {
-              "duration": 1625673000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.closeBrowser(Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 5803000,
+              "duration": 3317101800,
               "status": "passed"
             },
             "line": 9,
-            "name": "I am on the home page",
+            "name": "I click my Account",
             "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 202694200,
-              "status": "passed"
-            },
-            "line": 10,
-            "name": "I search for a product \"shoe\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"shoe\"",
-                  "offset": 23
-                }
-              ],
-              "location": "ShouldBeAbleToSearchProductSteps.i_search_for_a_product(String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 153763688200,
-              "status": "passed"
-            },
-            "line": 11,
-            "name": "I click search button",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.iClickSearchButton()"
+              "location": "ShouldBeAbleToLoginSteps.i_click_my_Account()"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 323107300,
+              "duration": 260100,
               "status": "passed"
             },
-            "line": 12,
-            "name": "I should view all the relevant products",
+            "line": 10,
+            "name": "I click on register now",
             "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.i_should_view_all_the_relevant_products()"
+              "location": "ShouldBeAbleToRegisterAccountSteps.i_click_on_register_now()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3910700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I enter all the required below registration details",
+            "match": {
+              "location": "ShouldBeAbleToRegisterAccountSteps.i_enter_all_the_required_below_registration_details(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Title",
+                  "First Name",
+                  "Last Name",
+                  "Email",
+                  "Password",
+                  "DOB",
+                  "Telephone",
+                  "House Number",
+                  "Post Code"
+                ]
+              },
+              {
+                "cells": [
+                  "Mr",
+                  "John",
+                  "furgeh",
+                  "john@yahoo.com",
+                  "password1234",
+                  "151279",
+                  "07854542111",
+                  "43",
+                  "IG2 2RJ"
+                ]
+              },
+              {
+                "cells": [
+                  "Mrs",
+                  "Neela",
+                  "Rao",
+                  "neela@gmail..com",
+                  "1243password",
+                  "11111979",
+                  "078545454",
+                  "101A",
+                  "E7 0QH"
+                ]
+              },
+              {
+                "cells": [
+                  "Miss",
+                  "Sheela",
+                  "Kumari",
+                  "nsheela@hotmail.com",
+                  "1242pass1234",
+                  "1010581",
+                  "07854542999",
+                  "37",
+                  "IG1 2SR"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 47400,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I click register now",
+            "match": {
+              "location": "ShouldBeAbleToRegisterAccountSteps.i_click_register_now()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 27900,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I should be provided a customerNumber and selfServeNumber",
+            "match": {
+              "location": "ShouldBeAbleToRegisterAccountSteps.i_should_be_provided_a_customerNumber_and_selfServeNumber()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@search"
-          }
-        ]
-      },
-      {
-        "before": [
-          {
-            "result": {
-              "duration": 44137926800,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.setupHomePage()"
-            }
-          }
-        ],
-        "line": 18,
-        "name": "Should be able to search a product",
-        "description": "",
-        "id": "should-be-a-able-to-search-a-product;should-be-able-to-search-a-product;;4",
-        "after": [
-          {
-            "result": {
-              "duration": 1332135000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.closeBrowser(Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 10183000,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "I am on the home page",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 2279006400,
-              "status": "passed"
-            },
-            "line": 10,
-            "name": "I search for a product \"jacket\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"jacket\"",
-                  "offset": 23
-                }
-              ],
-              "location": "ShouldBeAbleToSearchProductSteps.i_search_for_a_product(String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 21376995600,
-              "status": "passed"
-            },
-            "line": 11,
-            "name": "I click search button",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.iClickSearchButton()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 1842681100,
-              "status": "passed"
-            },
-            "line": 12,
-            "name": "I should view all the relevant products",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.i_should_view_all_the_relevant_products()"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@search"
-          }
-        ]
-      },
-      {
-        "before": [
-          {
-            "result": {
-              "duration": 32537393200,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.setupHomePage()"
-            }
-          }
-        ],
-        "line": 19,
-        "name": "Should be able to search a product",
-        "description": "",
-        "id": "should-be-a-able-to-search-a-product;should-be-able-to-search-a-product;;5",
-        "after": [
-          {
-            "result": {
-              "duration": 996404900,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.closeBrowser(Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 12678800,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "I am on the home page",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 1595311800,
-              "status": "passed"
-            },
-            "line": 10,
-            "name": "I search for a product \"bags\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"bags\"",
-                  "offset": 23
-                }
-              ],
-              "location": "ShouldBeAbleToSearchProductSteps.i_search_for_a_product(String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 19089436800,
-              "status": "passed"
-            },
-            "line": 11,
-            "name": "I click search button",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.iClickSearchButton()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 734167600,
-              "status": "passed"
-            },
-            "line": 12,
-            "name": "I should view all the relevant products",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.i_should_view_all_the_relevant_products()"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@search"
+            "name": "@register"
           }
         ]
       }
     ],
-    "name": "SHOULD BE A ABLE TO SEARCH A PRODUCT",
-    "description": "  As a end user\n  I will search for a product\n  then I should be able to view all the relevant products",
-    "id": "should-be-a-able-to-search-a-product",
+    "name": "SHOULD BE ABLE TO REGISTER",
+    "description": "  As a end user\n  I want to register my account\n  so that I can get my a customer id",
+    "id": "should-be-able-to-register",
     "keyword": "Feature",
-    "uri": "src/test/java/com/next/resources/features/ShouldBeAbleToSearchProduct.feature",
+    "uri": "src/test/java/com/next/resources/features/ShouldBeAbleToRegisterAccount.feature",
     "tags": [
       {
-        "name": "@search",
-        "type": "Tag",
-        "location": {
-          "line": 1,
-          "column": 1
-        }
-      }
-    ]
-  },
-  {
-    "line": 2,
-    "elements": [
-      {
-        "before": [
-          {
-            "result": {
-              "duration": 22844682800,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.setupHomePage()"
-            }
-          }
-        ],
-        "line": 13,
-        "name": "should be able to sort a product",
-        "description": "",
-        "id": "should-be-able-to-sort-product;should-be-able-to-sort-a-product;;2",
-        "after": [
-          {
-            "result": {
-              "duration": 1853926700,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.closeBrowser(Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 2023400,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "I am on the home page",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 182821200,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "I search for the an item \"shirt\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"shirt\"",
-                  "offset": 25
-                }
-              ],
-              "location": "ShouldBeAbleToSortProductSteps.i_search_for_the_an_item(String)"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 10609720700,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "I click search button",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.iClickSearchButton()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 6890546300,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "I select sort by \"Most Relevant\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Most Relevant\"",
-                  "offset": 17
-                }
-              ],
-              "location": "ShouldBeAbleToSortProductSteps.i_select_sort_by(String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "error_message": "java.lang.AssertionError: Product are sorted incorrectly, please investigate\nExpected: a string containing \"shirt\" ignoring case\n     but: was \"White 2 Pack Long Sleeve Formal Blouse (3-16yrs)\"\r\n\tat org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:18)\r\n\tat com.next.steps.ShouldBeAbleToSortProductSteps.i_should_view_all_products_in_a_sorting_order_of(ShouldBeAbleToSortProductSteps.java:43)\r\n\tat ✽.I should view all products in a sorting order of \"Most Relevant\"(src/test/java/com/next/resources/features/ShouldBeAbleToSortProduct.feature:9)\r\n",
-              "duration": 2076727700,
-              "status": "failed"
-            },
-            "line": 9,
-            "name": "I should view all products in a sorting order of \"Most Relevant\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Most Relevant\"",
-                  "offset": 49
-                }
-              ],
-              "location": "ShouldBeAbleToSortProductSteps.i_should_view_all_products_in_a_sorting_order_of(String)"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@sort"
-          }
-        ]
-      },
-      {
-        "before": [
-          {
-            "result": {
-              "duration": 15478602600,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.setupHomePage()"
-            }
-          }
-        ],
-        "line": 14,
-        "name": "should be able to sort a product",
-        "description": "",
-        "id": "should-be-able-to-sort-product;should-be-able-to-sort-a-product;;3",
-        "after": [
-          {
-            "result": {
-              "duration": 3690448400,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.closeBrowser(Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 1723300,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "I am on the home page",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.i_am_on_the_home_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 204538400,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "I search for the an item \"shirt\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"shirt\"",
-                  "offset": 25
-                }
-              ],
-              "location": "ShouldBeAbleToSortProductSteps.i_search_for_the_an_item(String)"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 8031679600,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "I click search button",
-            "match": {
-              "location": "ShouldBeAbleToSearchProductSteps.iClickSearchButton()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 3025186200,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "I select sort by \"Price: Low - High\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Price: Low - High\"",
-                  "offset": 17
-                }
-              ],
-              "location": "ShouldBeAbleToSortProductSteps.i_select_sort_by(String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "error_message": "java.util.NoSuchElementException\r\n\tat java.util.HashMap$HashIterator.nextNode(HashMap.java:1447)\r\n\tat java.util.HashMap$KeyIterator.next(HashMap.java:1469)\r\n\tat java.util.Collections.min(Collections.java:598)\r\n\tat com.next.steps.ShouldBeAbleToSortProductSteps.i_should_view_all_products_in_a_sorting_order_of(ShouldBeAbleToSortProductSteps.java:50)\r\n\tat ✽.I should view all products in a sorting order of \"Price: Low - High\"(src/test/java/com/next/resources/features/ShouldBeAbleToSortProduct.feature:9)\r\n",
-              "duration": 532789900,
-              "status": "failed"
-            },
-            "line": 9,
-            "name": "I should view all products in a sorting order of \"Price: Low - High\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Price: Low - High\"",
-                  "offset": 49
-                }
-              ],
-              "location": "ShouldBeAbleToSortProductSteps.i_should_view_all_products_in_a_sorting_order_of(String)"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@sort"
-          }
-        ]
-      }
-    ],
-    "name": "SHOULD BE ABLE TO SORT PRODUCT",
-    "description": "",
-    "id": "should-be-able-to-sort-product",
-    "keyword": "Feature",
-    "uri": "src/test/java/com/next/resources/features/ShouldBeAbleToSortProduct.feature",
-    "tags": [
-      {
-        "name": "@sort",
+        "name": "@register",
         "type": "Tag",
         "location": {
           "line": 1,

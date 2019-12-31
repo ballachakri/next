@@ -63,7 +63,7 @@ public void postReqDemo3() throws IOException {
             .contentType("application/json")
             .body(str2)
     .when()
-            .post()
+   //         .post()
     .then()
             .statusCode(200)
             .statusLine("HTTP/1.1 200 OK")
