@@ -28,7 +28,7 @@ public class ShouldBeAbleToSortProductSteps {
     @Given("I search for the an item {string}")
     public void i_search_for_the_an_item(String item) {
         Logs.info("THE TEST STEPS OF STEP DEFINITIONS CLASS :  " + this.getClass().getName() + " ARE BEING EXECUTING......................!");
-        headerPage = new HeaderPage().enterSearchProduct(item);
+        headerPage = new HeaderPage().enterSearchProduct(item).clickSearchButton();
         shareState.setData(item);
     }
 

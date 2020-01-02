@@ -3074,3 +3074,290 @@
 2019-12-31 17:50:53,377 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
 2019-12-31 17:50:53,379 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
 2019-12-31 17:50:56,700 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 05:54:10,469 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 05:55:40,039 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 05:56:02,902 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 05:56:10,573 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 05:58:23,341 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 05:58:44,151 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 05:58:45,305 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 05:59:00,561 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 05:59:00,561 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-02 05:59:12,349 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 05:59:13,331 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 05:59:29,766 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 05:59:29,767 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-02 05:59:35,723 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-02 05:59:35,726 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-02 05:59:36,160 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 05:59:36,962 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 05:59:52,026 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 05:59:57,157 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 05:59:57,923 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:00:15,008 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:00:15,009 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:00:16,513 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-02 06:00:16,516 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-02 06:00:16,521 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-02 06:00:16,522 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-02 06:00:17,815 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:00:18,541 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:00:32,768 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:00:32,769 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:00:35,241 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:05:45,825 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:06:03,407 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:06:03,409 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-02 06:06:10,536 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:06:11,326 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:06:26,363 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:06:26,364 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-02 06:06:31,327 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-02 06:06:31,329 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-02 06:06:32,411 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:06:33,321 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:06:48,593 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:06:54,346 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:06:55,196 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:07:11,476 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:07:17,298 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:07:18,065 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:07:34,796 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:07:40,461 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:07:41,271 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:07:55,666 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:08:00,991 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:08:01,896 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:08:15,843 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:08:15,844 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:08:17,331 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-02 06:08:17,341 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-02 06:08:17,341 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-02 06:08:17,341 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-02 06:08:17,346 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-02 06:08:17,346 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-02 06:08:17,346 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-02 06:08:17,346 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-02 06:08:18,596 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:08:19,436 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:08:34,607 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:08:34,609 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:08:36,984 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:12:16,598 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:12:16,629 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:13:03,082 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:13:19,645 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:13:19,646 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:13:22,080 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:13:22,912 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:13:39,450 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:13:39,452 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:13:41,616 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:13:42,585 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-02 06:13:42,585 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-02 06:14:48,006 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:15:03,645 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:15:03,647 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:15:06,133 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:15:06,934 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:15:21,331 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:15:21,332 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:15:23,727 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:20:43,044 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:20:58,696 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:20:58,701 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:21:04,151 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:23:25,060 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:23:36,304 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:23:52,881 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:23:52,883 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:23:55,313 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:27:44,098 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:28:00,145 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:28:00,150 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:28:06,115 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:31:06,069 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:31:24,095 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:31:24,099 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:31:30,094 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:33:08,753 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:33:27,792 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:33:32,714 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:35:47,458 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:36:03,745 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:36:03,749 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:36:09,941 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:41:55,992 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:42:12,805 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:42:12,806 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:42:18,565 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:44:07,125 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:44:23,005 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:44:23,006 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:44:28,674 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:45:49,413 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:46:04,752 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:46:04,753 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:46:11,149 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:47:55,919 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:48:11,925 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:48:11,926 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:48:18,579 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:50:46,999 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:51:03,859 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:51:03,860 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:51:06,137 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:53:24,715 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:53:40,304 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:53:40,306 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:53:42,843 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 06:58:43,374 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 06:59:00,370 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:59:00,370 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 06:59:03,220 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:01:24,956 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:01:43,521 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:01:43,523 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:01:46,395 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:01:49,669 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Get connection for route {}->http://restapi.demoqa.com:80
+2020-01-02 07:01:49,960 [main] DEBUG org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to restapi.demoqa.com:80
+2020-01-02 07:01:50,046 [main] DEBUG org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: ignoreCookies
+2020-01-02 07:01:50,046 [main] DEBUG org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+2020-01-02 07:01:50,054 [main] DEBUG org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+2020-01-02 07:01:50,057 [main] DEBUG org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+2020-01-02 07:01:50,059 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient - Attempt 1 to execute request
+2020-01-02 07:01:50,061 [main] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Sending request: GET /utilities/weather/city/Hyderabad HTTP/1.1
+2020-01-02 07:01:50,062 [main] DEBUG org.apache.http.wire -  >> "GET /utilities/weather/city/Hyderabad HTTP/1.1[\r][\n]"
+2020-01-02 07:01:50,065 [main] DEBUG org.apache.http.wire -  >> "Accept: */*[\r][\n]"
+2020-01-02 07:01:50,068 [main] DEBUG org.apache.http.wire -  >> "Host: restapi.demoqa.com[\r][\n]"
+2020-01-02 07:01:50,070 [main] DEBUG org.apache.http.wire -  >> "Connection: Keep-Alive[\r][\n]"
+2020-01-02 07:01:50,074 [main] DEBUG org.apache.http.wire -  >> "User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_221)[\r][\n]"
+2020-01-02 07:01:50,076 [main] DEBUG org.apache.http.wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-01-02 07:01:50,078 [main] DEBUG org.apache.http.wire -  >> "[\r][\n]"
+2020-01-02 07:01:50,080 [main] DEBUG org.apache.http.headers - >> GET /utilities/weather/city/Hyderabad HTTP/1.1
+2020-01-02 07:01:50,082 [main] DEBUG org.apache.http.headers - >> Accept: */*
+2020-01-02 07:01:50,083 [main] DEBUG org.apache.http.headers - >> Host: restapi.demoqa.com
+2020-01-02 07:01:50,085 [main] DEBUG org.apache.http.headers - >> Connection: Keep-Alive
+2020-01-02 07:01:50,086 [main] DEBUG org.apache.http.headers - >> User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_221)
+2020-01-02 07:01:50,089 [main] DEBUG org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+2020-01-02 07:01:50,855 [main] DEBUG org.apache.http.wire -  << "HTTP/1.1 200 OK[\r][\n]"
+2020-01-02 07:01:50,862 [main] DEBUG org.apache.http.wire -  << "Server: nginx[\r][\n]"
+2020-01-02 07:01:50,865 [main] DEBUG org.apache.http.wire -  << "Date: Thu, 02 Jan 2020 07:01:00 GMT[\r][\n]"
+2020-01-02 07:01:50,867 [main] DEBUG org.apache.http.wire -  << "Content-Type: application/json[\r][\n]"
+2020-01-02 07:01:50,868 [main] DEBUG org.apache.http.wire -  << "Content-Length: 163[\r][\n]"
+2020-01-02 07:01:50,869 [main] DEBUG org.apache.http.wire -  << "Vary: Accept-Encoding[\r][\n]"
+2020-01-02 07:01:50,870 [main] DEBUG org.apache.http.wire -  << "Content-Encoding: gzip[\r][\n]"
+2020-01-02 07:01:50,872 [main] DEBUG org.apache.http.wire -  << "Cache-Control: max-age=0[\r][\n]"
+2020-01-02 07:01:50,873 [main] DEBUG org.apache.http.wire -  << "Expires: Thu, 02 Jan 2020 07:01:00 GMT[\r][\n]"
+2020-01-02 07:01:50,874 [main] DEBUG org.apache.http.wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2020-01-02 07:01:50,876 [main] DEBUG org.apache.http.wire -  << "X-Proxy-Cache: BYPASS[\r][\n]"
+2020-01-02 07:01:50,877 [main] DEBUG org.apache.http.wire -  << "alt-svc: quic=":443"; ma=86400; v="43,39"[\r][\n]"
+2020-01-02 07:01:50,879 [main] DEBUG org.apache.http.wire -  << "Connection: keep-alive[\r][\n]"
+2020-01-02 07:01:50,882 [main] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-01-02 07:01:50,886 [main] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+2020-01-02 07:01:50,888 [main] DEBUG org.apache.http.headers - << HTTP/1.1 200 OK
+2020-01-02 07:01:50,890 [main] DEBUG org.apache.http.headers - << Server: nginx
+2020-01-02 07:01:50,892 [main] DEBUG org.apache.http.headers - << Date: Thu, 02 Jan 2020 07:01:00 GMT
+2020-01-02 07:01:50,893 [main] DEBUG org.apache.http.headers - << Content-Type: application/json
+2020-01-02 07:01:50,896 [main] DEBUG org.apache.http.headers - << Content-Length: 163
+2020-01-02 07:01:50,897 [main] DEBUG org.apache.http.headers - << Vary: Accept-Encoding
+2020-01-02 07:01:50,899 [main] DEBUG org.apache.http.headers - << Content-Encoding: gzip
+2020-01-02 07:01:50,900 [main] DEBUG org.apache.http.headers - << Cache-Control: max-age=0
+2020-01-02 07:01:50,904 [main] DEBUG org.apache.http.headers - << Expires: Thu, 02 Jan 2020 07:01:00 GMT
+2020-01-02 07:01:50,905 [main] DEBUG org.apache.http.headers - << Access-Control-Allow-Origin: *
+2020-01-02 07:01:50,907 [main] DEBUG org.apache.http.headers - << X-Proxy-Cache: BYPASS
+2020-01-02 07:01:50,907 [main] DEBUG org.apache.http.headers - << alt-svc: quic=":443"; ma=86400; v="43,39"
+2020-01-02 07:01:50,910 [main] DEBUG org.apache.http.headers - << Connection: keep-alive
+2020-01-02 07:01:50,932 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient - Connection can be kept alive indefinitely
+2020-01-02 07:01:51,017 [main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json
+2020-01-02 07:01:51,017 [main] DEBUG org.apache.http.wire -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3]M[0x8e]A[0xb][0x82]@[0x10][0x85][0xef][0xfe][0x8a]a[0xcf]!Y$[0xd8]5[0xf][0x82][0x97][0xa0][0xa0][0xf3][0xb6][0xfb][0xc8][0x81]\e[0xdc]=X[0xf4][0xdf]sQ[0xa3]9[0xbe][0xef][0xe3][0xcd]{'4[0x9d]:[0xb1][0x1f][0xd5][0x91]T5Z[0x88][0xbe]k[0xab]63[0xb8][0xa2][0xed][0xa7][0xc4][0x7]A[0xe4][0xbb]<-[\n]"
+2020-01-02 07:01:51,026 [main] DEBUG org.apache.http.wire -  << "*[0xf1][0x10][0x80][0xc][0x9e][0x3][0x87]aU[0xab][0xd0][0xb2]]z[0xf2][0x82][0xce][0x10][0x3][0xe7]Wz[0x83][0xf6][\r][0xa4][0xc4]`[0x84]{[0xcf][0x9d][0x8b]^[0xa3]_[0xf8][0x19][0xec][0xec][0xa5][0x7]l[0x4][0xfb]4[0xa3][0xba][0xa5][0xe9]75][0x90][0xa7]d[0x81][0x89][0x5][0xf3][0x8c]hg[0x87][0xed]2J%[0x9f]/[0x90][0x8a]`[0xca][0xd3][0x0][0x0][0x0]"
+2020-01-02 07:01:51,027 [main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2020-01-02 07:01:51,375 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@365a6a43
+2020-01-02 07:01:51,376 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Connection can be kept alive indefinitely
+2020-01-02 07:01:51,990 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Get connection for route {}->http://restapi.demoqa.com:80
+2020-01-02 07:01:51,990 [main] DEBUG org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to restapi.demoqa.com:80
+2020-01-02 07:01:52,066 [main] DEBUG org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: ignoreCookies
+2020-01-02 07:01:52,066 [main] DEBUG org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+2020-01-02 07:01:52,066 [main] DEBUG org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+2020-01-02 07:01:52,066 [main] DEBUG org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+2020-01-02 07:01:52,066 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient - Attempt 1 to execute request
+2020-01-02 07:01:52,066 [main] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Sending request: GET /utilities/weather/city/Hyderabad HTTP/1.1
+2020-01-02 07:01:52,066 [main] DEBUG org.apache.http.wire -  >> "GET /utilities/weather/city/Hyderabad HTTP/1.1[\r][\n]"
+2020-01-02 07:01:52,066 [main] DEBUG org.apache.http.wire -  >> "Accept: */*[\r][\n]"
+2020-01-02 07:01:52,066 [main] DEBUG org.apache.http.wire -  >> "Host: restapi.demoqa.com[\r][\n]"
+2020-01-02 07:01:52,066 [main] DEBUG org.apache.http.wire -  >> "Connection: Keep-Alive[\r][\n]"
+2020-01-02 07:01:52,066 [main] DEBUG org.apache.http.wire -  >> "User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_221)[\r][\n]"
+2020-01-02 07:01:52,066 [main] DEBUG org.apache.http.wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-01-02 07:01:52,066 [main] DEBUG org.apache.http.wire -  >> "[\r][\n]"
+2020-01-02 07:01:52,078 [main] DEBUG org.apache.http.headers - >> GET /utilities/weather/city/Hyderabad HTTP/1.1
+2020-01-02 07:01:52,079 [main] DEBUG org.apache.http.headers - >> Accept: */*
+2020-01-02 07:01:52,079 [main] DEBUG org.apache.http.headers - >> Host: restapi.demoqa.com
+2020-01-02 07:01:52,079 [main] DEBUG org.apache.http.headers - >> Connection: Keep-Alive
+2020-01-02 07:01:52,079 [main] DEBUG org.apache.http.headers - >> User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_221)
+2020-01-02 07:01:52,079 [main] DEBUG org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+2020-01-02 07:01:52,356 [main] DEBUG org.apache.http.wire -  << "HTTP/1.1 200 OK[\r][\n]"
+2020-01-02 07:01:52,357 [main] DEBUG org.apache.http.wire -  << "Server: nginx[\r][\n]"
+2020-01-02 07:01:52,357 [main] DEBUG org.apache.http.wire -  << "Date: Thu, 02 Jan 2020 07:01:02 GMT[\r][\n]"
+2020-01-02 07:01:52,358 [main] DEBUG org.apache.http.wire -  << "Content-Type: application/json[\r][\n]"
+2020-01-02 07:01:52,358 [main] DEBUG org.apache.http.wire -  << "Content-Length: 163[\r][\n]"
+2020-01-02 07:01:52,359 [main] DEBUG org.apache.http.wire -  << "Vary: Accept-Encoding[\r][\n]"
+2020-01-02 07:01:52,360 [main] DEBUG org.apache.http.wire -  << "Content-Encoding: gzip[\r][\n]"
+2020-01-02 07:01:52,361 [main] DEBUG org.apache.http.wire -  << "Cache-Control: max-age=0[\r][\n]"
+2020-01-02 07:01:52,361 [main] DEBUG org.apache.http.wire -  << "Expires: Thu, 02 Jan 2020 07:01:02 GMT[\r][\n]"
+2020-01-02 07:01:52,362 [main] DEBUG org.apache.http.wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2020-01-02 07:01:52,362 [main] DEBUG org.apache.http.wire -  << "X-Proxy-Cache: BYPASS[\r][\n]"
+2020-01-02 07:01:52,363 [main] DEBUG org.apache.http.wire -  << "alt-svc: quic=":443"; ma=86400; v="43,39"[\r][\n]"
+2020-01-02 07:01:52,363 [main] DEBUG org.apache.http.wire -  << "Connection: keep-alive[\r][\n]"
+2020-01-02 07:01:52,364 [main] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-01-02 07:01:52,364 [main] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+2020-01-02 07:01:52,366 [main] DEBUG org.apache.http.headers - << HTTP/1.1 200 OK
+2020-01-02 07:01:52,366 [main] DEBUG org.apache.http.headers - << Server: nginx
+2020-01-02 07:01:52,367 [main] DEBUG org.apache.http.headers - << Date: Thu, 02 Jan 2020 07:01:02 GMT
+2020-01-02 07:01:52,367 [main] DEBUG org.apache.http.headers - << Content-Type: application/json
+2020-01-02 07:01:52,367 [main] DEBUG org.apache.http.headers - << Content-Length: 163
+2020-01-02 07:01:52,368 [main] DEBUG org.apache.http.headers - << Vary: Accept-Encoding
+2020-01-02 07:01:52,368 [main] DEBUG org.apache.http.headers - << Content-Encoding: gzip
+2020-01-02 07:01:52,369 [main] DEBUG org.apache.http.headers - << Cache-Control: max-age=0
+2020-01-02 07:01:52,369 [main] DEBUG org.apache.http.headers - << Expires: Thu, 02 Jan 2020 07:01:02 GMT
+2020-01-02 07:01:52,370 [main] DEBUG org.apache.http.headers - << Access-Control-Allow-Origin: *
+2020-01-02 07:01:52,371 [main] DEBUG org.apache.http.headers - << X-Proxy-Cache: BYPASS
+2020-01-02 07:01:52,371 [main] DEBUG org.apache.http.headers - << alt-svc: quic=":443"; ma=86400; v="43,39"
+2020-01-02 07:01:52,372 [main] DEBUG org.apache.http.headers - << Connection: keep-alive
+2020-01-02 07:01:52,373 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient - Connection can be kept alive indefinitely
+2020-01-02 07:01:52,373 [main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json
+2020-01-02 07:01:52,374 [main] DEBUG org.apache.http.wire -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3]M[0x8e]A[0xb][0x82]@[0x10][0x85][0xef][0xfe][0x8a]a[0xcf]!Y$[0xd8]5[0xf][0x82][0x97][0xa0][0xa0][0xf3][0xb6][0xfb][0xc8][0x81]\e[0xdc]=X[0xf4][0xdf]sQ[0xa3]9[0xbe][0xef][0xe3][0xcd]{'4[0x9d]:[0xb1][0x1f][0xd5][0x91]T5Z[0x88][0xbe]k[0xab]63[0xb8][0xa2][0xed][0xa7][0xc4][0x7]A[0xe4][0xbb]<-[\n]"
+2020-01-02 07:01:52,374 [main] DEBUG org.apache.http.wire -  << "*[0xf1][0x10][0x80][0xc][0x9e][0x3][0x87]aU[0xab][0xd0][0xb2]]z[0xf2][0x82][0xce][0x10][0x3][0xe7]Wz[0x83][0xf6][\r][0xa4][0xc4]`[0x84]{[0xcf][0x9d][0x8b]^[0xa3]_[0xf8][0x19][0xec][0xec][0xa5][0x7]l[0x4][0xfb]4[0xa3][0xba][0xa5][0xe9]75][0x90][0xa7]d[0x81][0x89][0x5][0xf3][0x8c]hg[0x87][0xed]2J%[0x9f]/[0x90][0x8a]`[0xca][0xd3][0x0][0x0][0x0]"
+2020-01-02 07:01:52,375 [main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2020-01-02 07:01:52,379 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@66213a0d
+2020-01-02 07:01:52,380 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Connection can be kept alive indefinitely
+2020-01-02 07:01:53,054 [Finalizer] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:59942<->184.154.68.154:80 closed
+2020-01-02 07:01:53,057 [Finalizer] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:59938<->184.154.68.154:80 closed
+2020-01-02 07:03:03,560 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:03:23,925 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:03:23,927 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:03:27,040 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:04:46,133 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:05:03,118 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:05:03,120 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:05:17,049 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:07:16,398 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:07:35,551 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:07:35,551 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-02 07:07:43,280 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:09:45,337 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:10:02,098 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:10:02,100 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-02 07:10:11,183 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:12:07,206 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:12:23,973 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:12:23,975 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-02 07:12:36,155 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:15:15,306 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:15:35,935 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:15:35,939 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-02 07:15:44,999 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:16:19,854 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:16:37,216 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:16:37,220 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-02 07:16:46,892 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!

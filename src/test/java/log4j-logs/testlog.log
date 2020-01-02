@@ -3074,4 +3074,291 @@
  2019-12-31 17:50:53 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
  2019-12-31 17:50:53 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
  2019-12-31 17:50:56 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 05:54:10 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 05:55:40 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 05:56:02 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 05:56:10 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 05:58:23 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 05:58:44 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 05:58:45 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 05:59:00 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 05:59:00 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+ 2020-01-02 05:59:12 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 05:59:13 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 05:59:29 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 05:59:29 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+ 2020-01-02 05:59:35 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2020-01-02 05:59:35 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2020-01-02 05:59:36 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 05:59:36 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 05:59:52 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 05:59:57 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 05:59:57 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:00:15 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:00:15 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:00:16 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2020-01-02 06:00:16 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2020-01-02 06:00:16 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2020-01-02 06:00:16 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2020-01-02 06:00:17 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:00:18 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:00:32 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:00:32 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:00:35 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:05:45 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:06:03 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:06:03 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:06:10 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:06:11 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:06:26 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:06:26 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:06:31 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2020-01-02 06:06:31 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2020-01-02 06:06:32 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:06:33 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:06:48 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:06:54 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:06:55 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:07:11 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:07:17 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:07:18 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:07:34 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:07:40 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:07:41 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:07:55 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:08:00 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:08:01 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:08:15 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:08:15 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:08:17 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2020-01-02 06:08:17 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2020-01-02 06:08:17 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2020-01-02 06:08:17 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2020-01-02 06:08:17 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2020-01-02 06:08:17 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2020-01-02 06:08:17 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2020-01-02 06:08:17 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2020-01-02 06:08:18 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:08:19 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:08:34 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:08:34 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:08:36 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:12:16 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:12:16 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:13:03 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:13:19 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:13:19 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:13:22 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:13:22 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:13:39 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:13:39 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:13:41 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:13:42 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ 2020-01-02 06:13:42 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ 2020-01-02 06:14:48 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:15:03 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:15:03 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:15:06 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:15:06 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:15:21 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:15:21 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:15:23 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:20:43 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:20:58 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:20:58 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:21:04 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:23:25 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:23:36 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:23:52 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:23:52 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:23:55 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:27:44 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:28:00 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:28:00 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:28:06 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:31:06 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:31:24 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:31:24 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:31:30 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:33:08 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:33:27 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:33:32 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:35:47 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:36:03 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:36:03 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:36:09 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:41:55 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:42:12 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:42:12 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:42:18 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:44:07 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:44:23 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:44:23 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:44:28 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:45:49 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:46:04 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:46:04 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:46:11 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:47:55 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:48:11 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:48:11 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:48:18 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:50:46 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:51:03 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:51:03 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:51:06 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:53:24 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:53:40 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:53:40 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:53:42 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 06:58:43 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 06:59:00 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:59:00 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 06:59:03 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 07:01:24 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 07:01:43 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:01:43 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:01:46 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 07:01:49 DEBUG BasicClientConnectionManager:161 - Get connection for route {}->http://restapi.demoqa.com:80
+ 2020-01-02 07:01:49 DEBUG DefaultClientConnectionOperator:177 - Connecting to restapi.demoqa.com:80
+ 2020-01-02 07:01:50 DEBUG RequestAddCookies:123 - CookieSpec selected: ignoreCookies
+ 2020-01-02 07:01:50 DEBUG RequestAuthCache:77 - Auth cache not set in the context
+ 2020-01-02 07:01:50 DEBUG RequestTargetAuthentication:80 - Target auth state: UNCHALLENGED
+ 2020-01-02 07:01:50 DEBUG RequestProxyAuthentication:89 - Proxy auth state: UNCHALLENGED
+ 2020-01-02 07:01:50 DEBUG DefaultHttpClient:682 - Attempt 1 to execute request
+ 2020-01-02 07:01:50 DEBUG DefaultClientConnection:274 - Sending request: GET /utilities/weather/city/Hyderabad HTTP/1.1
+ 2020-01-02 07:01:50 DEBUG wire:73 -  >> "GET /utilities/weather/city/Hyderabad HTTP/1.1[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  >> "Accept: */*[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  >> "Host: restapi.demoqa.com[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  >> "Connection: Keep-Alive[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  >> "User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_221)[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  >> "[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG headers:278 - >> GET /utilities/weather/city/Hyderabad HTTP/1.1
+ 2020-01-02 07:01:50 DEBUG headers:281 - >> Accept: */*
+ 2020-01-02 07:01:50 DEBUG headers:281 - >> Host: restapi.demoqa.com
+ 2020-01-02 07:01:50 DEBUG headers:281 - >> Connection: Keep-Alive
+ 2020-01-02 07:01:50 DEBUG headers:281 - >> User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_221)
+ 2020-01-02 07:01:50 DEBUG headers:281 - >> Accept-Encoding: gzip,deflate
+ 2020-01-02 07:01:50 DEBUG wire:73 -  << "HTTP/1.1 200 OK[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  << "Server: nginx[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  << "Date: Thu, 02 Jan 2020 07:01:00 GMT[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  << "Content-Type: application/json[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  << "Content-Length: 163[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  << "Vary: Accept-Encoding[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  << "Content-Encoding: gzip[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  << "Cache-Control: max-age=0[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  << "Expires: Thu, 02 Jan 2020 07:01:00 GMT[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  << "Access-Control-Allow-Origin: *[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  << "X-Proxy-Cache: BYPASS[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  << "alt-svc: quic=":443"; ma=86400; v="43,39"[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  << "Connection: keep-alive[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG wire:73 -  << "[\r][\n]"
+ 2020-01-02 07:01:50 DEBUG DefaultClientConnection:259 - Receiving response: HTTP/1.1 200 OK
+ 2020-01-02 07:01:50 DEBUG headers:262 - << HTTP/1.1 200 OK
+ 2020-01-02 07:01:50 DEBUG headers:265 - << Server: nginx
+ 2020-01-02 07:01:50 DEBUG headers:265 - << Date: Thu, 02 Jan 2020 07:01:00 GMT
+ 2020-01-02 07:01:50 DEBUG headers:265 - << Content-Type: application/json
+ 2020-01-02 07:01:50 DEBUG headers:265 - << Content-Length: 163
+ 2020-01-02 07:01:50 DEBUG headers:265 - << Vary: Accept-Encoding
+ 2020-01-02 07:01:50 DEBUG headers:265 - << Content-Encoding: gzip
+ 2020-01-02 07:01:50 DEBUG headers:265 - << Cache-Control: max-age=0
+ 2020-01-02 07:01:50 DEBUG headers:265 - << Expires: Thu, 02 Jan 2020 07:01:00 GMT
+ 2020-01-02 07:01:50 DEBUG headers:265 - << Access-Control-Allow-Origin: *
+ 2020-01-02 07:01:50 DEBUG headers:265 - << X-Proxy-Cache: BYPASS
+ 2020-01-02 07:01:50 DEBUG headers:265 - << alt-svc: quic=":443"; ma=86400; v="43,39"
+ 2020-01-02 07:01:50 DEBUG headers:265 - << Connection: keep-alive
+ 2020-01-02 07:01:50 DEBUG DefaultHttpClient:509 - Connection can be kept alive indefinitely
+ 2020-01-02 07:01:51 DEBUG RequestSpecificationImpl$RestAssuredHttpBuilder:544 - Parsing response as: application/json
+ 2020-01-02 07:01:51 DEBUG wire:73 -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3]M[0x8e]A[0xb][0x82]@[0x10][0x85][0xef][0xfe][0x8a]a[0xcf]!Y$[0xd8]5[0xf][0x82][0x97][0xa0][0xa0][0xf3][0xb6][0xfb][0xc8][0x81]\e[0xdc]=X[0xf4][0xdf]sQ[0xa3]9[0xbe][0xef][0xe3][0xcd]{'4[0x9d]:[0xb1][0x1f][0xd5][0x91]T5Z[0x88][0xbe]k[0xab]63[0xb8][0xa2][0xed][0xa7][0xc4][0x7]A[0xe4][0xbb]<-[\n]"
+ 2020-01-02 07:01:51 DEBUG wire:87 -  << "*[0xf1][0x10][0x80][0xc][0x9e][0x3][0x87]aU[0xab][0xd0][0xb2]]z[0xf2][0x82][0xce][0x10][0x3][0xe7]Wz[0x83][0xf6][\r][0xa4][0xc4]`[0x84]{[0xcf][0x9d][0x8b]^[0xa3]_[0xf8][0x19][0xec][0xec][0xa5][0x7]l[0x4][0xfb]4[0xa3][0xba][0xa5][0xe9]75][0x90][0xa7]d[0x81][0x89][0x5][0xf3][0x8c]hg[0x87][0xed]2J%[0x9f]/[0x90][0x8a]`[0xca][0xd3][0x0][0x0][0x0]"
+ 2020-01-02 07:01:51 DEBUG RequestSpecificationImpl$RestAssuredHttpBuilder:547 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+ 2020-01-02 07:01:51 DEBUG BasicClientConnectionManager:200 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@365a6a43
+ 2020-01-02 07:01:51 DEBUG BasicClientConnectionManager:225 - Connection can be kept alive indefinitely
+ 2020-01-02 07:01:51 DEBUG BasicClientConnectionManager:161 - Get connection for route {}->http://restapi.demoqa.com:80
+ 2020-01-02 07:01:51 DEBUG DefaultClientConnectionOperator:177 - Connecting to restapi.demoqa.com:80
+ 2020-01-02 07:01:52 DEBUG RequestAddCookies:123 - CookieSpec selected: ignoreCookies
+ 2020-01-02 07:01:52 DEBUG RequestAuthCache:77 - Auth cache not set in the context
+ 2020-01-02 07:01:52 DEBUG RequestTargetAuthentication:80 - Target auth state: UNCHALLENGED
+ 2020-01-02 07:01:52 DEBUG RequestProxyAuthentication:89 - Proxy auth state: UNCHALLENGED
+ 2020-01-02 07:01:52 DEBUG DefaultHttpClient:682 - Attempt 1 to execute request
+ 2020-01-02 07:01:52 DEBUG DefaultClientConnection:274 - Sending request: GET /utilities/weather/city/Hyderabad HTTP/1.1
+ 2020-01-02 07:01:52 DEBUG wire:73 -  >> "GET /utilities/weather/city/Hyderabad HTTP/1.1[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  >> "Accept: */*[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  >> "Host: restapi.demoqa.com[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  >> "Connection: Keep-Alive[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  >> "User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_221)[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  >> "[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG headers:278 - >> GET /utilities/weather/city/Hyderabad HTTP/1.1
+ 2020-01-02 07:01:52 DEBUG headers:281 - >> Accept: */*
+ 2020-01-02 07:01:52 DEBUG headers:281 - >> Host: restapi.demoqa.com
+ 2020-01-02 07:01:52 DEBUG headers:281 - >> Connection: Keep-Alive
+ 2020-01-02 07:01:52 DEBUG headers:281 - >> User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_221)
+ 2020-01-02 07:01:52 DEBUG headers:281 - >> Accept-Encoding: gzip,deflate
+ 2020-01-02 07:01:52 DEBUG wire:73 -  << "HTTP/1.1 200 OK[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  << "Server: nginx[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  << "Date: Thu, 02 Jan 2020 07:01:02 GMT[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  << "Content-Type: application/json[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  << "Content-Length: 163[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  << "Vary: Accept-Encoding[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  << "Content-Encoding: gzip[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  << "Cache-Control: max-age=0[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  << "Expires: Thu, 02 Jan 2020 07:01:02 GMT[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  << "Access-Control-Allow-Origin: *[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  << "X-Proxy-Cache: BYPASS[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  << "alt-svc: quic=":443"; ma=86400; v="43,39"[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  << "Connection: keep-alive[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG wire:73 -  << "[\r][\n]"
+ 2020-01-02 07:01:52 DEBUG DefaultClientConnection:259 - Receiving response: HTTP/1.1 200 OK
+ 2020-01-02 07:01:52 DEBUG headers:262 - << HTTP/1.1 200 OK
+ 2020-01-02 07:01:52 DEBUG headers:265 - << Server: nginx
+ 2020-01-02 07:01:52 DEBUG headers:265 - << Date: Thu, 02 Jan 2020 07:01:02 GMT
+ 2020-01-02 07:01:52 DEBUG headers:265 - << Content-Type: application/json
+ 2020-01-02 07:01:52 DEBUG headers:265 - << Content-Length: 163
+ 2020-01-02 07:01:52 DEBUG headers:265 - << Vary: Accept-Encoding
+ 2020-01-02 07:01:52 DEBUG headers:265 - << Content-Encoding: gzip
+ 2020-01-02 07:01:52 DEBUG headers:265 - << Cache-Control: max-age=0
+ 2020-01-02 07:01:52 DEBUG headers:265 - << Expires: Thu, 02 Jan 2020 07:01:02 GMT
+ 2020-01-02 07:01:52 DEBUG headers:265 - << Access-Control-Allow-Origin: *
+ 2020-01-02 07:01:52 DEBUG headers:265 - << X-Proxy-Cache: BYPASS
+ 2020-01-02 07:01:52 DEBUG headers:265 - << alt-svc: quic=":443"; ma=86400; v="43,39"
+ 2020-01-02 07:01:52 DEBUG headers:265 - << Connection: keep-alive
+ 2020-01-02 07:01:52 DEBUG DefaultHttpClient:509 - Connection can be kept alive indefinitely
+ 2020-01-02 07:01:52 DEBUG RequestSpecificationImpl$RestAssuredHttpBuilder:544 - Parsing response as: application/json
+ 2020-01-02 07:01:52 DEBUG wire:73 -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3]M[0x8e]A[0xb][0x82]@[0x10][0x85][0xef][0xfe][0x8a]a[0xcf]!Y$[0xd8]5[0xf][0x82][0x97][0xa0][0xa0][0xf3][0xb6][0xfb][0xc8][0x81]\e[0xdc]=X[0xf4][0xdf]sQ[0xa3]9[0xbe][0xef][0xe3][0xcd]{'4[0x9d]:[0xb1][0x1f][0xd5][0x91]T5Z[0x88][0xbe]k[0xab]63[0xb8][0xa2][0xed][0xa7][0xc4][0x7]A[0xe4][0xbb]<-[\n]"
+ 2020-01-02 07:01:52 DEBUG wire:87 -  << "*[0xf1][0x10][0x80][0xc][0x9e][0x3][0x87]aU[0xab][0xd0][0xb2]]z[0xf2][0x82][0xce][0x10][0x3][0xe7]Wz[0x83][0xf6][\r][0xa4][0xc4]`[0x84]{[0xcf][0x9d][0x8b]^[0xa3]_[0xf8][0x19][0xec][0xec][0xa5][0x7]l[0x4][0xfb]4[0xa3][0xba][0xa5][0xe9]75][0x90][0xa7]d[0x81][0x89][0x5][0xf3][0x8c]hg[0x87][0xed]2J%[0x9f]/[0x90][0x8a]`[0xca][0xd3][0x0][0x0][0x0]"
+ 2020-01-02 07:01:52 DEBUG RequestSpecificationImpl$RestAssuredHttpBuilder:547 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+ 2020-01-02 07:01:52 DEBUG BasicClientConnectionManager:200 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@66213a0d
+ 2020-01-02 07:01:52 DEBUG BasicClientConnectionManager:225 - Connection can be kept alive indefinitely
+ 2020-01-02 07:01:53 DEBUG DefaultClientConnection:180 - Connection 0.0.0.0:59942<->184.154.68.154:80 closed
+ 2020-01-02 07:01:53 DEBUG DefaultClientConnection:180 - Connection 0.0.0.0:59938<->184.154.68.154:80 closed
+ 2020-01-02 07:03:03 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 07:03:23 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:03:23 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:03:27 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 07:04:46 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 07:05:03 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:05:03 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:05:17 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 07:07:16 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 07:07:35 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:07:35 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:07:43 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 07:09:45 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 07:10:02 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:10:02 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:10:11 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 07:12:07 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 07:12:23 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:12:23 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:12:36 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 07:15:15 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 07:15:35 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:15:35 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:15:44 INFO  Logs:17 - .......................TEST FINISHED........................!
+ 2020-01-02 07:16:19 INFO  Logs:13 - .......................TEST STARTED.....................!
+ 2020-01-02 07:16:37 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:16:37 INFO  Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+ 2020-01-02 07:16:46 INFO  Logs:17 - .......................TEST FINISHED........................!
  

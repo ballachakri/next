@@ -30,6 +30,7 @@ public class BaseUIPageObjects{
      */
     public BaseUIPageObjects() {
          PageFactory.initElements(driver, this);
+
     }
 
     /**
@@ -40,7 +41,7 @@ public class BaseUIPageObjects{
         driver = driverFactory.getBrowserType();
         System.out.println("WEB-DRIVER NAME     :    "+driver);
         driver.get(driverFactory.getTestEnvironment());
-         maximizeBrowser();
+        maximizeBrowser();
 
     }
 

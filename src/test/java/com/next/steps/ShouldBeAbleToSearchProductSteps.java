@@ -31,12 +31,7 @@ public class ShouldBeAbleToSearchProductSteps {
     @When("I search for a product {string}")
     public void i_search_for_a_product(final String item) {
         shareState.setData(item);
-        headerPage = new HeaderPage().enterSearchProduct(item);
-    }
-
-    @And("I click search button")
-    public void iClickSearchButton() {
-        headerPage.clickSearchButton();
+        headerPage = new HeaderPage().enterSearchProduct(item).clickSearchButton();
     }
 
     @Then("I should view all the relevant products")

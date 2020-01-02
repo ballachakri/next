@@ -23,16 +23,16 @@ public class ShouldBeAbleToRegisterAccountSteps {
         List<Map<String, String>> accountData = DataTable.asMaps(String.class, String.class);
 
         new RegisterPage().selectTitle(accountData.get(0).get("Title"))
-                .enterFirstName(accountData.get(0).get("First Name")).enterLastName(accountData.get(0).get("Last name"))
+                .enterFirstName(accountData.get(0).get("First Name")).enterLastName(accountData.get(0).get("Last Name"))
                 .enterEmailID(accountData.get(0).get("Email")).enterPassword(accountData.get(0).get("Password"))
                 .enterDateOfBirth(accountData.get(0).get("DOB")).enterTelephoneNo(accountData.get(0).get("Telephone"))
-                .enterHouseNumber(accountData.get(0).get("House Number")).enterPostCode(accountData.get(0).get("Post Code"))
-                .clickNoDirectoryButton();
+                .enterHouseNumber(accountData.get(0).get("House Number")).enterPostCode(accountData.get(0).get("Post Code"));
+
     }
 
     @When("I click register now")
     public void i_click_register_now() {
-        System.out.println("USED SOUT, INSTEAD OF CLICKING REGISTER NOW -- NO NEED TO  CREATE ACCOUNT");
+        System.out.println("CLICKING REGISTER NOW IGNORED -- NO NEED TO  CREATE ACCOUNT");
     }
 
     @Then("I should be provided a customerNumber and selfServeNumber")

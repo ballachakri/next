@@ -75,7 +75,7 @@ formatter.step({
         "furgeh",
         "john@yahoo.com",
         "password1234",
-        "151279",
+        "15 27 93",
         "07854542111",
         "43",
         "IG2 2RJ"
@@ -88,7 +88,7 @@ formatter.step({
         "Rao",
         "neela@gmail..com",
         "1243password",
-        "11111979",
+        "11 11 79",
         "078545454",
         "101A",
         "E7 0QH"
@@ -101,7 +101,7 @@ formatter.step({
         "Kumari",
         "nsheela@hotmail.com",
         "1242pass1234",
-        "1010581",
+        "10 10 81",
         "07854542999",
         "37",
         "IG1 2SR"
