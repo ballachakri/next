@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: SHOULD BE A ABLE TO SEARCH A PRODUCT
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 8, Skipped: 0, Time elapsed: 0.561 s <<< FAILURE! - in SHOULD BE A ABLE TO SEARCH A PRODUCT
+Should be able to search a product(SHOULD BE A ABLE TO SEARCH A PRODUCT)  Time elapsed: 0.447 s  <<< ERROR!
+java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+
+Should be able to search a product(SHOULD BE A ABLE TO SEARCH A PRODUCT)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+Should be able to search a product(SHOULD BE A ABLE TO SEARCH A PRODUCT)  Time elapsed: 0.071 s  <<< ERROR!
+java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+
+Should be able to search a product(SHOULD BE A ABLE TO SEARCH A PRODUCT)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+Should be able to search a product(SHOULD BE A ABLE TO SEARCH A PRODUCT)  Time elapsed: 0.016 s  <<< ERROR!
+java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+
+Should be able to search a product(SHOULD BE A ABLE TO SEARCH A PRODUCT)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+Should be able to search a product(SHOULD BE A ABLE TO SEARCH A PRODUCT)  Time elapsed: 0.019 s  <<< ERROR!
+java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+
+Should be able to search a product(SHOULD BE A ABLE TO SEARCH A PRODUCT)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+

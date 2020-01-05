@@ -1,1 +1,0 @@
-src/test/java/com/next/resources/features/ShouldBeAbleToSortProduct.feature:13

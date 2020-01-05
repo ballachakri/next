@@ -3361,3 +3361,272 @@
 2020-01-02 07:16:37,216 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
 2020-01-02 07:16:37,220 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
 2020-01-02 07:16:46,892 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:26:02,479 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:26:21,412 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:26:21,412 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-02 07:26:29,466 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:26:30,415 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:26:46,812 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:26:46,813 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-02 07:26:55,868 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:26:56,754 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:27:13,231 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:27:19,027 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:27:19,824 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:27:37,545 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:27:42,903 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:27:43,805 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:28:01,809 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:28:08,924 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:28:09,702 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:28:26,030 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:28:26,146 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-02 07:28:26,151 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-02 07:28:26,164 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-02 07:28:26,165 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-02 07:28:26,166 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-02 07:28:26,166 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-02 07:28:26,174 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-02 07:28:26,177 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-02 07:28:31,698 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:28:32,541 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:28:50,679 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:28:50,680 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:29:12,607 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-02 07:29:13,430 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-02 07:29:33,352 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:29:33,352 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-02 07:29:50,539 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 13:46:22,076 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 13:46:40,207 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 13:46:40,209 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-05 13:46:47,209 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 13:46:48,001 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 13:47:01,991 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 13:47:01,991 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-05 13:47:07,379 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 13:47:07,381 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 13:47:08,823 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 13:47:09,661 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 13:47:25,717 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 13:47:30,493 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 13:47:31,236 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 13:47:46,844 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 13:47:52,041 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 13:47:52,098 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 13:47:52,101 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 13:47:52,104 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 13:47:52,104 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 13:47:52,877 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 13:48:08,105 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 13:48:12,892 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 13:48:13,695 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 13:48:28,983 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 13:48:34,054 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 13:48:34,946 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 13:48:49,730 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 13:48:49,731 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-05 13:48:59,983 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 13:49:00,819 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 13:49:17,167 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 13:49:17,168 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-05 13:49:30,330 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:08:05,167 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:10:22,859 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:10:40,543 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:10:40,547 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-05 14:10:48,951 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:10:50,308 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:11:03,150 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:11:03,151 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-05 14:11:09,956 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:11:09,958 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:11:10,658 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:11:11,491 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:11:26,164 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:11:31,324 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:11:32,124 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:11:47,322 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:11:51,547 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:11:52,314 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:11:57,885 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:11:57,887 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:11:57,891 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:11:57,892 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:11:57,892 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:11:57,892 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:12:08,594 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:12:16,472 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:12:17,215 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:12:32,248 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:12:37,522 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:12:38,431 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:12:57,656 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:12:57,656 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:13:08,271 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:13:09,101 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:13:22,697 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:13:22,698 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:13:40,377 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:15:35,654 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:16:03,962 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:16:03,977 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-05 14:16:32,307 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:16:33,758 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:17:12,027 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:17:51,890 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:17:51,893 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-05 14:18:07,182 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:18:08,555 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:18:08,758 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:18:08,774 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:18:36,441 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:18:36,443 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-05 14:19:14,372 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:19:15,996 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:19:55,800 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:20:15,571 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:20:16,692 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:20:46,185 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:21:10,899 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:21:12,785 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:21:37,781 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:21:58,262 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:22:00,063 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:22:25,898 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:23:04,982 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:23:07,603 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:23:34,529 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:23:34,534 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:24:09,777 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:24:11,316 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:24:43,531 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:24:43,532 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:25:24,716 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:25:24,732 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:25:24,732 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:25:24,732 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:25:24,732 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:25:24,732 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:25:24,732 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:25:24,732 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:25:24,732 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:25:24,732 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:25:27,911 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:31:38,335 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:32:33,753 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:32:33,760 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-05 14:33:37,857 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:34:25,172 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:34:25,178 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-05 14:34:45,761 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:34:47,317 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:35:10,602 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:35:10,604 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-05 14:35:22,860 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:35:22,862 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:35:24,376 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:35:25,343 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:36:42,962 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:36:42,957 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:36:42,953 [pool-1-thread-4] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:36:42,969 [pool-1-thread-2] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:36:45,203 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:36:45,203 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:36:45,208 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:36:45,208 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:36:46,851 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:36:46,855 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:37:08,778 [pool-1-thread-3] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:37:08,787 [pool-1-thread-4] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:37:08,788 [pool-1-thread-4] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:37:08,906 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:37:08,907 [pool-1-thread-1] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-05 14:37:08,916 [pool-1-thread-2] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:37:08,918 [pool-1-thread-2] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-05 14:37:19,074 [pool-1-thread-4] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:37:19,582 [pool-1-thread-2] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:37:20,111 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:37:21,329 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:37:21,335 [pool-1-thread-4] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:37:45,597 [pool-1-thread-3] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:37:45,625 [pool-1-thread-4] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:37:45,628 [pool-1-thread-4] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:37:54,709 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:37:54,709 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:37:55,466 [pool-1-thread-4] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:37:56,883 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:38:17,786 [pool-1-thread-3] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:38:24,377 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:38:25,396 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:38:40,756 [pool-1-thread-3] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 14:38:46,670 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 14:38:48,481 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:38:48,487 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:38:48,488 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 14:38:48,488 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 14:54:11,670 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:54:11,667 [pool-1-thread-4] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:54:11,665 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:54:11,673 [pool-1-thread-2] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:54:11,698 [pool-1-thread-4] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:54:11,702 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:54:11,713 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:54:11,723 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:55:14,838 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:55:14,836 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:55:14,834 [pool-1-thread-4] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:55:14,830 [pool-1-thread-2] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:55:14,926 [pool-1-thread-4] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:55:14,937 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:55:14,973 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:55:15,006 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:56:31,442 [pool-1-thread-2] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:56:31,440 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:56:31,436 [pool-1-thread-4] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:56:31,434 [pool-1-thread-1] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:56:31,747 [pool-1-thread-4] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:56:31,814 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:56:31,834 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 14:56:31,855 [pool-1-thread-3] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 15:00:11,022 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 15:00:26,778 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 15:00:28,858 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 15:00:37,024 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 15:00:39,450 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 15:00:48,449 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 15:00:50,497 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 15:00:50,622 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 15:00:50,638 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 15:00:50,638 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 15:00:50,638 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 15:00:59,130 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 15:01:02,877 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 15:01:10,598 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 15:01:13,244 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 15:01:21,424 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 15:01:23,251 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 15:01:32,017 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 15:01:33,817 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 15:01:41,860 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 15:01:44,077 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 15:01:44,080 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 15:01:44,084 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 15:01:44,085 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 15:01:44,086 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 15:01:44,087 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 15:01:44,096 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 15:01:44,099 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 15:01:44,107 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 15:01:44,109 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 15:04:29,809 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 15:05:07,086 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 15:05:07,088 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-05 15:05:38,609 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 15:05:43,011 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!
+2020-01-05 15:06:13,983 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+2020-01-05 15:06:13,987 [main] INFO com.next.utils.Logs - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToLoginSteps ARE BEING EXECUTING......................!
+2020-01-05 15:06:37,235 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+2020-01-05 15:06:37,247 [Finalizer] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+2020-01-05 15:06:41,307 [main] INFO com.next.utils.Logs - .......................TEST FINISHED........................!
+2020-01-05 15:06:43,035 [main] INFO com.next.utils.Logs - .......................TEST STARTED.....................!

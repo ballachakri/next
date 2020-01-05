@@ -1,20 +1,7 @@
 package com.next.BaseConfig;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
-import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.htmlunit.HtmlUnitDriver;
-import org.openqa.selenium.ie.InternetExplorerDriver;
-import org.openqa.selenium.opera.OperaDriver;
-import org.openqa.selenium.remote.DesiredCapabilities;
-import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.PageFactory;
-
-import java.net.MalformedURLException;
-import java.net.URL;
 
 /**
  * Base Page object class
@@ -24,6 +11,8 @@ public class BaseUIPageObjects{
 
     public static WebDriver driver;
     private DriverFactory driverFactory;
+
+
 
     /**
      * initializing the the Page Factory to identify the web elements
@@ -38,7 +27,7 @@ public class BaseUIPageObjects{
      */
     public void setUpBrowser() {
         driverFactory =new DriverFactory();
-        driver = driverFactory.getBrowserType();
+        driver=new DriverFactory().getBrowserType();
         System.out.println("WEB-DRIVER NAME     :    "+driver);
         driver.get(driverFactory.getTestEnvironment());
         maximizeBrowser();

@@ -1,7 +1,16 @@
 -------------------------------------------------------------------------------
 Test set: SHOULD BE ABLE TO SORT PRODUCT
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 20.752 s <<< FAILURE! - in SHOULD BE ABLE TO SORT PRODUCT
-should be able to sort a product(SHOULD BE ABLE TO SORT PRODUCT)  Time elapsed: 20.752 s  <<< ERROR!
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.454 s <<< FAILURE! - in SHOULD BE ABLE TO SORT PRODUCT
+should be able to sort a product(SHOULD BE ABLE TO SORT PRODUCT)  Time elapsed: 0.383 s  <<< ERROR!
+java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+
+should be able to sort a product(SHOULD BE ABLE TO SORT PRODUCT)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+should be able to sort a product(SHOULD BE ABLE TO SORT PRODUCT)  Time elapsed: 0.071 s  <<< ERROR!
+java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+
+should be able to sort a product(SHOULD BE ABLE TO SORT PRODUCT)  Time elapsed: 0 s  <<< ERROR!
 java.lang.NullPointerException
 
