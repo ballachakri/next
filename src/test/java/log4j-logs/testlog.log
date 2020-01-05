@@ -3630,4 +3630,27 @@
  [Finalizer] (PoolingHttpClientConnectionManager.java : 414 ) 2020 - 01 - 05 15:06:37 DEBUG  PoolingHttpClientConnectionManager:414 - Connection manager shut down
  [main] (Logs.java : 17 ) 2020 - 01 - 05 15:06:41 INFO   Logs:17 - .......................TEST FINISHED........................!
  [main] (Logs.java : 13 ) 2020 - 01 - 05 15:06:43 INFO   Logs:13 - .......................TEST STARTED.....................!
+ [main] (Logs.java : 21 ) 2020 - 01 - 05 15:07:13 INFO   Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ [main] (Logs.java : 17 ) 2020 - 01 - 05 15:07:32 INFO   Logs:17 - .......................TEST FINISHED........................!
+ [main] (Logs.java : 13 ) 2020 - 01 - 05 15:07:33 INFO   Logs:13 - .......................TEST STARTED.....................!
+ [main] (Logs.java : 21 ) 2020 - 01 - 05 15:07:58 INFO   Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ [main] (Logs.java : 17 ) 2020 - 01 - 05 15:08:18 INFO   Logs:17 - .......................TEST FINISHED........................!
+ [Finalizer] (PoolingHttpClientConnectionManager.java : 408 ) 2020 - 01 - 05 15:08:19 DEBUG  PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ [Finalizer] (PoolingHttpClientConnectionManager.java : 414 ) 2020 - 01 - 05 15:08:19 DEBUG  PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ [Finalizer] (PoolingHttpClientConnectionManager.java : 408 ) 2020 - 01 - 05 15:08:19 DEBUG  PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+ [Finalizer] (PoolingHttpClientConnectionManager.java : 414 ) 2020 - 01 - 05 15:08:19 DEBUG  PoolingHttpClientConnectionManager:414 - Connection manager shut down
+ [main] (Logs.java : 13 ) 2020 - 01 - 05 15:08:20 INFO   Logs:13 - .......................TEST STARTED.....................!
+ [main] (Logs.java : 21 ) 2020 - 01 - 05 15:08:48 INFO   Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ [main] (Logs.java : 17 ) 2020 - 01 - 05 15:09:06 INFO   Logs:17 - .......................TEST FINISHED........................!
+ [main] (Logs.java : 13 ) 2020 - 01 - 05 15:09:07 INFO   Logs:13 - .......................TEST STARTED.....................!
+ [main] (Logs.java : 21 ) 2020 - 01 - 05 15:09:43 INFO   Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ [main] (Logs.java : 17 ) 2020 - 01 - 05 15:10:19 INFO   Logs:17 - .......................TEST FINISHED........................!
+ [main] (Logs.java : 13 ) 2020 - 01 - 05 15:10:20 INFO   Logs:13 - .......................TEST STARTED.....................!
+ [main] (Logs.java : 21 ) 2020 - 01 - 05 15:10:55 INFO   Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ [main] (Logs.java : 21 ) 2020 - 01 - 05 15:10:55 INFO   Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ [main] (Logs.java : 17 ) 2020 - 01 - 05 15:12:00 INFO   Logs:17 - .......................TEST FINISHED........................!
+ [main] (Logs.java : 13 ) 2020 - 01 - 05 15:12:02 INFO   Logs:13 - .......................TEST STARTED.....................!
+ [main] (Logs.java : 21 ) 2020 - 01 - 05 15:12:40 INFO   Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSearchProductSteps ARE BEING EXECUTING......................!
+ [main] (Logs.java : 21 ) 2020 - 01 - 05 15:12:40 INFO   Logs:21 - THE TEST STEPS OF STEP DEFINITIONS CLASS :  com.next.steps.ShouldBeAbleToSortProductSteps ARE BEING EXECUTING......................!
+ [main] (Logs.java : 17 ) 2020 - 01 - 05 15:13:54 INFO   Logs:17 - .......................TEST FINISHED........................!
  
