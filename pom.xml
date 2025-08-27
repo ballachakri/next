@@ -21,7 +21,7 @@
 
         <selenium.java.version>3.141.59</selenium.java.version>
         <cucucmber.version>4.2.0</cucucmber.version>
-        <webdrivermanager.version>3.7.0</webdrivermanager.version>
+        <webdrivermanager.version>6.1.0</webdrivermanager.version>
         <hamcrest.version>2.0.0.0</hamcrest.version>
         <log4j.version>2.12.1</log4j.version>
     </properties>
